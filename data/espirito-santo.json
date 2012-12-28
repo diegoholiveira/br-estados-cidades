@@ -1,0 +1,237 @@
+{
+    "nome": "Esp\u00edrito Santo",
+    "sigla": "ES",
+    "cidades": [
+        {
+            "nome": "Afonso Cl\u00e1udio"
+        },
+        {
+            "nome": "\u00c1gua Doce do Norte"
+        },
+        {
+            "nome": "\u00c1guia Branca"
+        },
+        {
+            "nome": "Alegre"
+        },
+        {
+            "nome": "Alfredo Chaves"
+        },
+        {
+            "nome": "Alto Rio Novo"
+        },
+        {
+            "nome": "Anchieta"
+        },
+        {
+            "nome": "Apiac\u00e1"
+        },
+        {
+            "nome": "Aracruz"
+        },
+        {
+            "nome": "Atilio Vivacqua"
+        },
+        {
+            "nome": "Baixo Guandu"
+        },
+        {
+            "nome": "Barra de S\u00e3o Francisco"
+        },
+        {
+            "nome": "Boa Esperan\u00e7a"
+        },
+        {
+            "nome": "Bom Jesus do Norte"
+        },
+        {
+            "nome": "Brejetuba"
+        },
+        {
+            "nome": "Cachoeiro de Itapemirim"
+        },
+        {
+            "nome": "Cariacica"
+        },
+        {
+            "nome": "Castelo"
+        },
+        {
+            "nome": "Colatina"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o da Barra"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o do Castelo"
+        },
+        {
+            "nome": "Divino de S\u00e3o Louren\u00e7o"
+        },
+        {
+            "nome": "Domingos Martins"
+        },
+        {
+            "nome": "Dores do Rio Preto"
+        },
+        {
+            "nome": "Ecoporanga"
+        },
+        {
+            "nome": "Fund\u00e3o"
+        },
+        {
+            "nome": "Gua\u00e7u\u00ed"
+        },
+        {
+            "nome": "Guarapari"
+        },
+        {
+            "nome": "Ibatiba"
+        },
+        {
+            "nome": "Ibira\u00e7u"
+        },
+        {
+            "nome": "Ibitirama"
+        },
+        {
+            "nome": "Iconha"
+        },
+        {
+            "nome": "Irupi"
+        },
+        {
+            "nome": "Itagua\u00e7u"
+        },
+        {
+            "nome": "Itapemirim"
+        },
+        {
+            "nome": "Itarana"
+        },
+        {
+            "nome": "I\u00fana"
+        },
+        {
+            "nome": "Jaguar\u00e9"
+        },
+        {
+            "nome": "Jer\u00f4nimo Monteiro"
+        },
+        {
+            "nome": "Jo\u00e3o Neiva"
+        },
+        {
+            "nome": "Laranja da Terra"
+        },
+        {
+            "nome": "Linhares"
+        },
+        {
+            "nome": "Manten\u00f3polis"
+        },
+        {
+            "nome": "Marata\u00edzes"
+        },
+        {
+            "nome": "Marechal Floriano"
+        },
+        {
+            "nome": "Maril\u00e2ndia"
+        },
+        {
+            "nome": "Mimoso do Sul"
+        },
+        {
+            "nome": "Montanha"
+        },
+        {
+            "nome": "Mucurici"
+        },
+        {
+            "nome": "Muniz Freire"
+        },
+        {
+            "nome": "Muqui"
+        },
+        {
+            "nome": "Nova Ven\u00e9cia"
+        },
+        {
+            "nome": "Pancas"
+        },
+        {
+            "nome": "Pedro Can\u00e1rio"
+        },
+        {
+            "nome": "Pinheiros"
+        },
+        {
+            "nome": "Pi\u00fama"
+        },
+        {
+            "nome": "Ponto Belo"
+        },
+        {
+            "nome": "Presidente Kennedy"
+        },
+        {
+            "nome": "Rio Bananal"
+        },
+        {
+            "nome": "Rio Novo do Sul"
+        },
+        {
+            "nome": "Santa Leopoldina"
+        },
+        {
+            "nome": "Santa Maria de Jetib\u00e1"
+        },
+        {
+            "nome": "Santa Teresa"
+        },
+        {
+            "nome": "S\u00e3o Domingos do Norte"
+        },
+        {
+            "nome": "S\u00e3o Gabriel da Palha"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Cal\u00e7ado"
+        },
+        {
+            "nome": "S\u00e3o Mateus"
+        },
+        {
+            "nome": "S\u00e3o Roque do Cana\u00e3"
+        },
+        {
+            "nome": "Serra"
+        },
+        {
+            "nome": "Sooretama"
+        },
+        {
+            "nome": "Vargem Alta"
+        },
+        {
+            "nome": "Venda Nova do Imigrante"
+        },
+        {
+            "nome": "Viana"
+        },
+        {
+            "nome": "Vila Pav\u00e3o"
+        },
+        {
+            "nome": "Vila Val\u00e9rio"
+        },
+        {
+            "nome": "Vila Velha"
+        },
+        {
+            "nome": "Vit\u00f3ria"
+        }
+    ]
+}

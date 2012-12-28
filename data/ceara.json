@@ -1,0 +1,558 @@
+{
+    "nome": "Cear\u00e1",
+    "sigla": "CE",
+    "cidades": [
+        {
+            "nome": "Abaiara"
+        },
+        {
+            "nome": "Acarap\u00e9"
+        },
+        {
+            "nome": "Acara\u00fa"
+        },
+        {
+            "nome": "Acopiara"
+        },
+        {
+            "nome": "Aiuaba"
+        },
+        {
+            "nome": "Alc\u00e2ntaras"
+        },
+        {
+            "nome": "Altaneira"
+        },
+        {
+            "nome": "Alto Santo"
+        },
+        {
+            "nome": "Amontada"
+        },
+        {
+            "nome": "Antonina do Norte"
+        },
+        {
+            "nome": "Apuiar\u00e9s"
+        },
+        {
+            "nome": "Aquiraz"
+        },
+        {
+            "nome": "Aracati"
+        },
+        {
+            "nome": "Aracoiaba"
+        },
+        {
+            "nome": "Ararend\u00e1"
+        },
+        {
+            "nome": "Araripe"
+        },
+        {
+            "nome": "Aratuba"
+        },
+        {
+            "nome": "Arneiroz"
+        },
+        {
+            "nome": "Assar\u00e9"
+        },
+        {
+            "nome": "Aurora"
+        },
+        {
+            "nome": "Baixio"
+        },
+        {
+            "nome": "Banabui\u00fa"
+        },
+        {
+            "nome": "Barbalha"
+        },
+        {
+            "nome": "Barreira"
+        },
+        {
+            "nome": "Barro"
+        },
+        {
+            "nome": "Barroquinha"
+        },
+        {
+            "nome": "Baturit\u00e9"
+        },
+        {
+            "nome": "Beberibe"
+        },
+        {
+            "nome": "Bela Cruz"
+        },
+        {
+            "nome": "Boa Viagem"
+        },
+        {
+            "nome": "Brejo Santo"
+        },
+        {
+            "nome": "Camocim"
+        },
+        {
+            "nome": "Campos Sales"
+        },
+        {
+            "nome": "Canind\u00e9"
+        },
+        {
+            "nome": "Capistrano"
+        },
+        {
+            "nome": "Caridade"
+        },
+        {
+            "nome": "Carir\u00e9"
+        },
+        {
+            "nome": "Cariria\u00e7u"
+        },
+        {
+            "nome": "Cari\u00fas"
+        },
+        {
+            "nome": "Carnaubal"
+        },
+        {
+            "nome": "Cascavel"
+        },
+        {
+            "nome": "Catarina"
+        },
+        {
+            "nome": "Catunda"
+        },
+        {
+            "nome": "Caucaia"
+        },
+        {
+            "nome": "Cedro"
+        },
+        {
+            "nome": "Chaval"
+        },
+        {
+            "nome": "Chor\u00f3"
+        },
+        {
+            "nome": "Chorozinho"
+        },
+        {
+            "nome": "Corea\u00fa"
+        },
+        {
+            "nome": "Crate\u00fas"
+        },
+        {
+            "nome": "Crato"
+        },
+        {
+            "nome": "Croat\u00e1"
+        },
+        {
+            "nome": "Cruz"
+        },
+        {
+            "nome": "Deputado Irapuan Pinheiro"
+        },
+        {
+            "nome": "Erer\u00ea"
+        },
+        {
+            "nome": "Eus\u00e9bio"
+        },
+        {
+            "nome": "Farias Brito"
+        },
+        {
+            "nome": "Forquilha"
+        },
+        {
+            "nome": "Fortaleza"
+        },
+        {
+            "nome": "Fortim"
+        },
+        {
+            "nome": "Frecheirinha"
+        },
+        {
+            "nome": "General Sampaio"
+        },
+        {
+            "nome": "Gra\u00e7a"
+        },
+        {
+            "nome": "Granja"
+        },
+        {
+            "nome": "Granjeiro"
+        },
+        {
+            "nome": "Groa\u00edras"
+        },
+        {
+            "nome": "Guai\u00faba"
+        },
+        {
+            "nome": "Guaraciaba do Norte"
+        },
+        {
+            "nome": "Guaramiranga"
+        },
+        {
+            "nome": "Hidrol\u00e2ndia"
+        },
+        {
+            "nome": "Horizonte"
+        },
+        {
+            "nome": "Ibaretama"
+        },
+        {
+            "nome": "Ibiapina"
+        },
+        {
+            "nome": "Ibicuitinga"
+        },
+        {
+            "nome": "Icapu\u00ed"
+        },
+        {
+            "nome": "Ic\u00f3"
+        },
+        {
+            "nome": "Iguatu"
+        },
+        {
+            "nome": "Independ\u00eancia"
+        },
+        {
+            "nome": "Ipaporanga"
+        },
+        {
+            "nome": "Ipaumirim"
+        },
+        {
+            "nome": "Ipu"
+        },
+        {
+            "nome": "Ipueiras"
+        },
+        {
+            "nome": "Iracema"
+        },
+        {
+            "nome": "Irau\u00e7uba"
+        },
+        {
+            "nome": "Itai\u00e7aba"
+        },
+        {
+            "nome": "Itaitinga"
+        },
+        {
+            "nome": "Itapag\u00e9"
+        },
+        {
+            "nome": "Itapipoca"
+        },
+        {
+            "nome": "Itapi\u00fana"
+        },
+        {
+            "nome": "Itarema"
+        },
+        {
+            "nome": "Itatira"
+        },
+        {
+            "nome": "Jaguaretama"
+        },
+        {
+            "nome": "Jaguaribara"
+        },
+        {
+            "nome": "Jaguaribe"
+        },
+        {
+            "nome": "Jaguaruana"
+        },
+        {
+            "nome": "Jardim"
+        },
+        {
+            "nome": "Jati"
+        },
+        {
+            "nome": "Jijoca de Jericoacoara"
+        },
+        {
+            "nome": "Juazeiro do Norte"
+        },
+        {
+            "nome": "Juc\u00e1s"
+        },
+        {
+            "nome": "Lavras da Mangabeira"
+        },
+        {
+            "nome": "Limoeiro do Norte"
+        },
+        {
+            "nome": "Madalena"
+        },
+        {
+            "nome": "Maracana\u00fa"
+        },
+        {
+            "nome": "Maranguape"
+        },
+        {
+            "nome": "Marco"
+        },
+        {
+            "nome": "Martin\u00f3pole"
+        },
+        {
+            "nome": "Massap\u00ea"
+        },
+        {
+            "nome": "Mauriti"
+        },
+        {
+            "nome": "Meruoca"
+        },
+        {
+            "nome": "Milagres"
+        },
+        {
+            "nome": "Milh\u00e3"
+        },
+        {
+            "nome": "Mira\u00edma"
+        },
+        {
+            "nome": "Miss\u00e3o Velha"
+        },
+        {
+            "nome": "Momba\u00e7a"
+        },
+        {
+            "nome": "Monsenhor Tabosa"
+        },
+        {
+            "nome": "Morada Nova"
+        },
+        {
+            "nome": "Mora\u00fajo"
+        },
+        {
+            "nome": "Morrinhos"
+        },
+        {
+            "nome": "Mucambo"
+        },
+        {
+            "nome": "Mulungu"
+        },
+        {
+            "nome": "Nova Olinda"
+        },
+        {
+            "nome": "Nova Russas"
+        },
+        {
+            "nome": "Novo Oriente"
+        },
+        {
+            "nome": "Ocara"
+        },
+        {
+            "nome": "Or\u00f3s"
+        },
+        {
+            "nome": "Pacajus"
+        },
+        {
+            "nome": "Pacatuba"
+        },
+        {
+            "nome": "Pacoti"
+        },
+        {
+            "nome": "Pacuj\u00e1"
+        },
+        {
+            "nome": "Palhano"
+        },
+        {
+            "nome": "Palm\u00e1cia"
+        },
+        {
+            "nome": "Paracuru"
+        },
+        {
+            "nome": "Paraipaba"
+        },
+        {
+            "nome": "Parambu"
+        },
+        {
+            "nome": "Paramoti"
+        },
+        {
+            "nome": "Pedra Branca"
+        },
+        {
+            "nome": "Penaforte"
+        },
+        {
+            "nome": "Pentecoste"
+        },
+        {
+            "nome": "Pereiro"
+        },
+        {
+            "nome": "Pindoretama"
+        },
+        {
+            "nome": "Piquet Carneiro"
+        },
+        {
+            "nome": "Pires Ferreira"
+        },
+        {
+            "nome": "Poranga"
+        },
+        {
+            "nome": "Porteiras"
+        },
+        {
+            "nome": "Potengi"
+        },
+        {
+            "nome": "Potiretama"
+        },
+        {
+            "nome": "Quiterian\u00f3polis"
+        },
+        {
+            "nome": "Quixad\u00e1"
+        },
+        {
+            "nome": "Quixel\u00f4"
+        },
+        {
+            "nome": "Quixeramobim"
+        },
+        {
+            "nome": "Quixer\u00e9"
+        },
+        {
+            "nome": "Reden\u00e7\u00e3o"
+        },
+        {
+            "nome": "Reriutaba"
+        },
+        {
+            "nome": "Russas"
+        },
+        {
+            "nome": "Saboeiro"
+        },
+        {
+            "nome": "Salitre"
+        },
+        {
+            "nome": "Santa Quit\u00e9ria"
+        },
+        {
+            "nome": "Santana do Acara\u00fa"
+        },
+        {
+            "nome": "Santana do Cariri"
+        },
+        {
+            "nome": "S\u00e3o Benedito"
+        },
+        {
+            "nome": "S\u00e3o Gon\u00e7alo do Amarante"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Jaguaribe"
+        },
+        {
+            "nome": "S\u00e3o Lu\u00eds do Curu"
+        },
+        {
+            "nome": "Senador Pompeu"
+        },
+        {
+            "nome": "Senador S\u00e1"
+        },
+        {
+            "nome": "Sobral"
+        },
+        {
+            "nome": "Solon\u00f3pole"
+        },
+        {
+            "nome": "Tabuleiro do Norte"
+        },
+        {
+            "nome": "Tamboril"
+        },
+        {
+            "nome": "Tarrafas"
+        },
+        {
+            "nome": "Tau\u00e1"
+        },
+        {
+            "nome": "Teju\u00e7uoca"
+        },
+        {
+            "nome": "Tiangu\u00e1"
+        },
+        {
+            "nome": "Trairi"
+        },
+        {
+            "nome": "Tururu"
+        },
+        {
+            "nome": "Ubajara"
+        },
+        {
+            "nome": "Umari"
+        },
+        {
+            "nome": "Umirim"
+        },
+        {
+            "nome": "Uruburetama"
+        },
+        {
+            "nome": "Uruoca"
+        },
+        {
+            "nome": "Varjota"
+        },
+        {
+            "nome": "V\u00e1rzea Alegre"
+        },
+        {
+            "nome": "Vi\u00e7osa do Cear\u00e1"
+        }
+    ]
+}

@@ -1,0 +1,732 @@
+{
+    "nome": "Goi\u00e1s",
+    "sigla": "GO",
+    "cidades": [
+        {
+            "nome": "Abadia de Goi\u00e1s"
+        },
+        {
+            "nome": "Abadi\u00e2nia"
+        },
+        {
+            "nome": "Acre\u00fana"
+        },
+        {
+            "nome": "Adel\u00e2ndia"
+        },
+        {
+            "nome": "\u00c1gua Fria de Goi\u00e1s"
+        },
+        {
+            "nome": "\u00c1gua Limpa"
+        },
+        {
+            "nome": "\u00c1guas Lindas de Goi\u00e1s"
+        },
+        {
+            "nome": "Alex\u00e2nia"
+        },
+        {
+            "nome": "Alo\u00e2ndia"
+        },
+        {
+            "nome": "Alto Horizonte"
+        },
+        {
+            "nome": "Alto Para\u00edso de Goi\u00e1s"
+        },
+        {
+            "nome": "Alvorada do Norte"
+        },
+        {
+            "nome": "Amaralina"
+        },
+        {
+            "nome": "Americano do Brasil"
+        },
+        {
+            "nome": "Amorin\u00f3polis"
+        },
+        {
+            "nome": "An\u00e1polis"
+        },
+        {
+            "nome": "Anhanguera"
+        },
+        {
+            "nome": "Anicuns"
+        },
+        {
+            "nome": "Aparecida de Goi\u00e2nia"
+        },
+        {
+            "nome": "Aparecida do Rio Doce"
+        },
+        {
+            "nome": "Apor\u00e9"
+        },
+        {
+            "nome": "Ara\u00e7u"
+        },
+        {
+            "nome": "Aragar\u00e7as"
+        },
+        {
+            "nome": "Aragoi\u00e2nia"
+        },
+        {
+            "nome": "Araguapaz"
+        },
+        {
+            "nome": "Aren\u00f3polis"
+        },
+        {
+            "nome": "Aruan\u00e3"
+        },
+        {
+            "nome": "Auril\u00e2ndia"
+        },
+        {
+            "nome": "Avelin\u00f3polis"
+        },
+        {
+            "nome": "Baliza"
+        },
+        {
+            "nome": "Barro Alto"
+        },
+        {
+            "nome": "Bela Vista de Goi\u00e1s"
+        },
+        {
+            "nome": "Bom Jardim de Goi\u00e1s"
+        },
+        {
+            "nome": "Bom Jesus de Goi\u00e1s"
+        },
+        {
+            "nome": "Bonfin\u00f3polis"
+        },
+        {
+            "nome": "Bon\u00f3polis"
+        },
+        {
+            "nome": "Brazabrantes"
+        },
+        {
+            "nome": "Brit\u00e2nia"
+        },
+        {
+            "nome": "Buriti Alegre"
+        },
+        {
+            "nome": "Buriti de Goi\u00e1s"
+        },
+        {
+            "nome": "Buritin\u00f3polis"
+        },
+        {
+            "nome": "Cabeceiras"
+        },
+        {
+            "nome": "Cachoeira Alta"
+        },
+        {
+            "nome": "Cachoeira de Goi\u00e1s"
+        },
+        {
+            "nome": "Cachoeira Dourada"
+        },
+        {
+            "nome": "Ca\u00e7u"
+        },
+        {
+            "nome": "Caiap\u00f4nia"
+        },
+        {
+            "nome": "Caldas Novas"
+        },
+        {
+            "nome": "Caldazinha"
+        },
+        {
+            "nome": "Campestre de Goi\u00e1s"
+        },
+        {
+            "nome": "Campina\u00e7u"
+        },
+        {
+            "nome": "Campinorte"
+        },
+        {
+            "nome": "Campo Alegre de Goi\u00e1s"
+        },
+        {
+            "nome": "Campos Belos"
+        },
+        {
+            "nome": "Campos Verdes"
+        },
+        {
+            "nome": "Carmo do Rio Verde"
+        },
+        {
+            "nome": "Castel\u00e2ndia"
+        },
+        {
+            "nome": "Catal\u00e3o"
+        },
+        {
+            "nome": "Catura\u00ed"
+        },
+        {
+            "nome": "Cavalcante"
+        },
+        {
+            "nome": "Ceres"
+        },
+        {
+            "nome": "Cezarina"
+        },
+        {
+            "nome": "Chapad\u00e3o do C\u00e9u"
+        },
+        {
+            "nome": "Cidade Ocidental"
+        },
+        {
+            "nome": "Cocalzinho de Goi\u00e1s"
+        },
+        {
+            "nome": "Colinas do Sul"
+        },
+        {
+            "nome": "C\u00f3rrego do Ouro"
+        },
+        {
+            "nome": "Corumb\u00e1 de Goi\u00e1s"
+        },
+        {
+            "nome": "Corumba\u00edba"
+        },
+        {
+            "nome": "Cristalina"
+        },
+        {
+            "nome": "Cristian\u00f3polis"
+        },
+        {
+            "nome": "Crix\u00e1s"
+        },
+        {
+            "nome": "Crom\u00ednia"
+        },
+        {
+            "nome": "Cumari"
+        },
+        {
+            "nome": "Damian\u00f3polis"
+        },
+        {
+            "nome": "Damol\u00e2ndia"
+        },
+        {
+            "nome": "Davin\u00f3polis"
+        },
+        {
+            "nome": "Diorama"
+        },
+        {
+            "nome": "Divin\u00f3polis de Goi\u00e1s"
+        },
+        {
+            "nome": "Doverl\u00e2ndia"
+        },
+        {
+            "nome": "Edealina"
+        },
+        {
+            "nome": "Ed\u00e9ia"
+        },
+        {
+            "nome": "Estrela do Norte"
+        },
+        {
+            "nome": "Faina"
+        },
+        {
+            "nome": "Fazenda Nova"
+        },
+        {
+            "nome": "Firmin\u00f3polis"
+        },
+        {
+            "nome": "Flores de Goi\u00e1s"
+        },
+        {
+            "nome": "Formosa"
+        },
+        {
+            "nome": "Formoso"
+        },
+        {
+            "nome": "Goian\u00e1polis"
+        },
+        {
+            "nome": "Goiandira"
+        },
+        {
+            "nome": "Goian\u00e9sia"
+        },
+        {
+            "nome": "Goi\u00e2nia"
+        },
+        {
+            "nome": "Goianira"
+        },
+        {
+            "nome": "Goi\u00e1s"
+        },
+        {
+            "nome": "Goiatuba"
+        },
+        {
+            "nome": "Gouvel\u00e2ndia"
+        },
+        {
+            "nome": "Guap\u00f3"
+        },
+        {
+            "nome": "Guara\u00edta"
+        },
+        {
+            "nome": "Guarani de Goi\u00e1s"
+        },
+        {
+            "nome": "Guarinos"
+        },
+        {
+            "nome": "Heitora\u00ed"
+        },
+        {
+            "nome": "Hidrol\u00e2ndia"
+        },
+        {
+            "nome": "Hidrolina"
+        },
+        {
+            "nome": "Iaciara"
+        },
+        {
+            "nome": "Inaciol\u00e2ndia"
+        },
+        {
+            "nome": "Indiara"
+        },
+        {
+            "nome": "Inhumas"
+        },
+        {
+            "nome": "Ipameri"
+        },
+        {
+            "nome": "Ipor\u00e1"
+        },
+        {
+            "nome": "Israel\u00e2ndia"
+        },
+        {
+            "nome": "Itabera\u00ed"
+        },
+        {
+            "nome": "Itaguari"
+        },
+        {
+            "nome": "Itaguaru"
+        },
+        {
+            "nome": "Itaj\u00e1"
+        },
+        {
+            "nome": "Itapaci"
+        },
+        {
+            "nome": "Itapirapu\u00e3"
+        },
+        {
+            "nome": "Itapuranga"
+        },
+        {
+            "nome": "Itarum\u00e3"
+        },
+        {
+            "nome": "Itau\u00e7u"
+        },
+        {
+            "nome": "Itumbiara"
+        },
+        {
+            "nome": "Ivol\u00e2ndia"
+        },
+        {
+            "nome": "Jandaia"
+        },
+        {
+            "nome": "Jaragu\u00e1"
+        },
+        {
+            "nome": "Jata\u00ed"
+        },
+        {
+            "nome": "Jaupaci"
+        },
+        {
+            "nome": "Jes\u00fapolis"
+        },
+        {
+            "nome": "Jovi\u00e2nia"
+        },
+        {
+            "nome": "Jussara"
+        },
+        {
+            "nome": "Leopoldo de Bulh\u00f5es"
+        },
+        {
+            "nome": "Luzi\u00e2nia"
+        },
+        {
+            "nome": "Mairipotaba"
+        },
+        {
+            "nome": "Mamba\u00ed"
+        },
+        {
+            "nome": "Mara Rosa"
+        },
+        {
+            "nome": "Marzag\u00e3o"
+        },
+        {
+            "nome": "Matrinch\u00e3"
+        },
+        {
+            "nome": "Mauril\u00e2ndia"
+        },
+        {
+            "nome": "Mimoso de Goi\u00e1s"
+        },
+        {
+            "nome": "Mina\u00e7u"
+        },
+        {
+            "nome": "Mineiros"
+        },
+        {
+            "nome": "Moipor\u00e1"
+        },
+        {
+            "nome": "Monte Alegre de Goi\u00e1s"
+        },
+        {
+            "nome": "Montes Claros de Goi\u00e1s"
+        },
+        {
+            "nome": "Montividiu"
+        },
+        {
+            "nome": "Montividiu do Norte"
+        },
+        {
+            "nome": "Morrinhos"
+        },
+        {
+            "nome": "Morro Agudo de Goi\u00e1s"
+        },
+        {
+            "nome": "Moss\u00e2medes"
+        },
+        {
+            "nome": "Mozarl\u00e2ndia"
+        },
+        {
+            "nome": "Mundo Novo"
+        },
+        {
+            "nome": "Mutun\u00f3polis"
+        },
+        {
+            "nome": "Naz\u00e1rio"
+        },
+        {
+            "nome": "Ner\u00f3polis"
+        },
+        {
+            "nome": "Niquel\u00e2ndia"
+        },
+        {
+            "nome": "Nova Am\u00e9rica"
+        },
+        {
+            "nome": "Nova Aurora"
+        },
+        {
+            "nome": "Nova Crix\u00e1s"
+        },
+        {
+            "nome": "Nova Gl\u00f3ria"
+        },
+        {
+            "nome": "Nova Igua\u00e7u de Goi\u00e1s"
+        },
+        {
+            "nome": "Nova Roma"
+        },
+        {
+            "nome": "Nova Veneza"
+        },
+        {
+            "nome": "Novo Brasil"
+        },
+        {
+            "nome": "Novo Gama"
+        },
+        {
+            "nome": "Novo Planalto"
+        },
+        {
+            "nome": "Orizona"
+        },
+        {
+            "nome": "Ouro Verde de Goi\u00e1s"
+        },
+        {
+            "nome": "Ouvidor"
+        },
+        {
+            "nome": "Padre Bernardo"
+        },
+        {
+            "nome": "Palestina de Goi\u00e1s"
+        },
+        {
+            "nome": "Palmeiras de Goi\u00e1s"
+        },
+        {
+            "nome": "Palmelo"
+        },
+        {
+            "nome": "Palmin\u00f3polis"
+        },
+        {
+            "nome": "Panam\u00e1"
+        },
+        {
+            "nome": "Paranaiguara"
+        },
+        {
+            "nome": "Para\u00fana"
+        },
+        {
+            "nome": "Perol\u00e2ndia"
+        },
+        {
+            "nome": "Petrolina de Goi\u00e1s"
+        },
+        {
+            "nome": "Pilar de Goi\u00e1s"
+        },
+        {
+            "nome": "Piracanjuba"
+        },
+        {
+            "nome": "Piranhas"
+        },
+        {
+            "nome": "Piren\u00f3polis"
+        },
+        {
+            "nome": "Pires do Rio"
+        },
+        {
+            "nome": "Planaltina"
+        },
+        {
+            "nome": "Pontalina"
+        },
+        {
+            "nome": "Porangatu"
+        },
+        {
+            "nome": "Porteir\u00e3o"
+        },
+        {
+            "nome": "Portel\u00e2ndia"
+        },
+        {
+            "nome": "Posse"
+        },
+        {
+            "nome": "Professor Jamil"
+        },
+        {
+            "nome": "Quirin\u00f3polis"
+        },
+        {
+            "nome": "Rialma"
+        },
+        {
+            "nome": "Rian\u00e1polis"
+        },
+        {
+            "nome": "Rio Quente"
+        },
+        {
+            "nome": "Rio Verde"
+        },
+        {
+            "nome": "Rubiataba"
+        },
+        {
+            "nome": "Sanclerl\u00e2ndia"
+        },
+        {
+            "nome": "Santa B\u00e1rbara de Goi\u00e1s"
+        },
+        {
+            "nome": "Santa Cruz de Goi\u00e1s"
+        },
+        {
+            "nome": "Santa F\u00e9 de Goi\u00e1s"
+        },
+        {
+            "nome": "Santa Helena de Goi\u00e1s"
+        },
+        {
+            "nome": "Santa Isabel"
+        },
+        {
+            "nome": "Santa Rita do Araguaia"
+        },
+        {
+            "nome": "Santa Rita do Novo Destino"
+        },
+        {
+            "nome": "Santa Rosa de Goi\u00e1s"
+        },
+        {
+            "nome": "Santa Tereza de Goi\u00e1s"
+        },
+        {
+            "nome": "Santa Terezinha de Goi\u00e1s"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio da Barra"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio de Goi\u00e1s"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio do Descoberto"
+        },
+        {
+            "nome": "S\u00e3o Domingos"
+        },
+        {
+            "nome": "S\u00e3o Francisco de Goi\u00e1s"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o d`Alian\u00e7a"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Para\u00fana"
+        },
+        {
+            "nome": "S\u00e3o Lu\u00eds de Montes Belos"
+        },
+        {
+            "nome": "S\u00e3o Lu\u00edz do Norte"
+        },
+        {
+            "nome": "S\u00e3o Miguel do Araguaia"
+        },
+        {
+            "nome": "S\u00e3o Miguel do Passa Quatro"
+        },
+        {
+            "nome": "S\u00e3o Patr\u00edcio"
+        },
+        {
+            "nome": "S\u00e3o Sim\u00e3o"
+        },
+        {
+            "nome": "Senador Canedo"
+        },
+        {
+            "nome": "Serran\u00f3polis"
+        },
+        {
+            "nome": "Silv\u00e2nia"
+        },
+        {
+            "nome": "Simol\u00e2ndia"
+        },
+        {
+            "nome": "S\u00edtio d`Abadia"
+        },
+        {
+            "nome": "Taquaral de Goi\u00e1s"
+        },
+        {
+            "nome": "Teresina de Goi\u00e1s"
+        },
+        {
+            "nome": "Terez\u00f3polis de Goi\u00e1s"
+        },
+        {
+            "nome": "Tr\u00eas Ranchos"
+        },
+        {
+            "nome": "Trindade"
+        },
+        {
+            "nome": "Trombas"
+        },
+        {
+            "nome": "Turv\u00e2nia"
+        },
+        {
+            "nome": "Turvel\u00e2ndia"
+        },
+        {
+            "nome": "Uirapuru"
+        },
+        {
+            "nome": "Urua\u00e7u"
+        },
+        {
+            "nome": "Uruana"
+        },
+        {
+            "nome": "Uruta\u00ed"
+        },
+        {
+            "nome": "Valpara\u00edso de Goi\u00e1s"
+        },
+        {
+            "nome": "Varj\u00e3o"
+        },
+        {
+            "nome": "Vian\u00f3polis"
+        },
+        {
+            "nome": "Vicentin\u00f3polis"
+        },
+        {
+            "nome": "Vila Boa"
+        },
+        {
+            "nome": "Vila Prop\u00edcio"
+        }
+    ]
+}

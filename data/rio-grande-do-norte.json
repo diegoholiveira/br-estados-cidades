@@ -1,0 +1,504 @@
+{
+    "nome": "Rio Grande do Norte",
+    "sigla": "RN",
+    "cidades": [
+        {
+            "nome": "Acari"
+        },
+        {
+            "nome": "A\u00e7u"
+        },
+        {
+            "nome": "Afonso Bezerra"
+        },
+        {
+            "nome": "\u00c1gua Nova"
+        },
+        {
+            "nome": "Alexandria"
+        },
+        {
+            "nome": "Almino Afonso"
+        },
+        {
+            "nome": "Alto do Rodrigues"
+        },
+        {
+            "nome": "Angicos"
+        },
+        {
+            "nome": "Ant\u00f4nio Martins"
+        },
+        {
+            "nome": "Apodi"
+        },
+        {
+            "nome": "Areia Branca"
+        },
+        {
+            "nome": "Ar\u00eas"
+        },
+        {
+            "nome": "Augusto Severo"
+        },
+        {
+            "nome": "Ba\u00eda Formosa"
+        },
+        {
+            "nome": "Bara\u00fana"
+        },
+        {
+            "nome": "Barcelona"
+        },
+        {
+            "nome": "Bento Fernandes"
+        },
+        {
+            "nome": "Bod\u00f3"
+        },
+        {
+            "nome": "Bom Jesus"
+        },
+        {
+            "nome": "Brejinho"
+        },
+        {
+            "nome": "Cai\u00e7ara do Norte"
+        },
+        {
+            "nome": "Cai\u00e7ara do Rio do Vento"
+        },
+        {
+            "nome": "Caic\u00f3"
+        },
+        {
+            "nome": "Campo Redondo"
+        },
+        {
+            "nome": "Canguaretama"
+        },
+        {
+            "nome": "Cara\u00fabas"
+        },
+        {
+            "nome": "Carna\u00faba dos Dantas"
+        },
+        {
+            "nome": "Carnaubais"
+        },
+        {
+            "nome": "Cear\u00e1-Mirim"
+        },
+        {
+            "nome": "Cerro Cor\u00e1"
+        },
+        {
+            "nome": "Coronel Ezequiel"
+        },
+        {
+            "nome": "Coronel Jo\u00e3o Pessoa"
+        },
+        {
+            "nome": "Cruzeta"
+        },
+        {
+            "nome": "Currais Novos"
+        },
+        {
+            "nome": "Doutor Severiano"
+        },
+        {
+            "nome": "Encanto"
+        },
+        {
+            "nome": "Equador"
+        },
+        {
+            "nome": "Esp\u00edrito Santo"
+        },
+        {
+            "nome": "Extremoz"
+        },
+        {
+            "nome": "Felipe Guerra"
+        },
+        {
+            "nome": "Fernando Pedroza"
+        },
+        {
+            "nome": "Flor\u00e2nia"
+        },
+        {
+            "nome": "Francisco Dantas"
+        },
+        {
+            "nome": "Frutuoso Gomes"
+        },
+        {
+            "nome": "Galinhos"
+        },
+        {
+            "nome": "Goianinha"
+        },
+        {
+            "nome": "Governador Dix-Sept Rosado"
+        },
+        {
+            "nome": "Grossos"
+        },
+        {
+            "nome": "Guamar\u00e9"
+        },
+        {
+            "nome": "Ielmo Marinho"
+        },
+        {
+            "nome": "Ipangua\u00e7u"
+        },
+        {
+            "nome": "Ipueira"
+        },
+        {
+            "nome": "Itaj\u00e1"
+        },
+        {
+            "nome": "Ita\u00fa"
+        },
+        {
+            "nome": "Ja\u00e7an\u00e3"
+        },
+        {
+            "nome": "Janda\u00edra"
+        },
+        {
+            "nome": "Jandu\u00eds"
+        },
+        {
+            "nome": "Janu\u00e1rio Cicco"
+        },
+        {
+            "nome": "Japi"
+        },
+        {
+            "nome": "Jardim de Angicos"
+        },
+        {
+            "nome": "Jardim de Piranhas"
+        },
+        {
+            "nome": "Jardim do Serid\u00f3"
+        },
+        {
+            "nome": "Jo\u00e3o C\u00e2mara"
+        },
+        {
+            "nome": "Jo\u00e3o Dias"
+        },
+        {
+            "nome": "Jos\u00e9 da Penha"
+        },
+        {
+            "nome": "Jucurutu"
+        },
+        {
+            "nome": "Lagoa d`Anta"
+        },
+        {
+            "nome": "Lagoa de Pedras"
+        },
+        {
+            "nome": "Lagoa de Velhos"
+        },
+        {
+            "nome": "Lagoa Nova"
+        },
+        {
+            "nome": "Lagoa Salgada"
+        },
+        {
+            "nome": "Lajes"
+        },
+        {
+            "nome": "Lajes Pintadas"
+        },
+        {
+            "nome": "Lucr\u00e9cia"
+        },
+        {
+            "nome": "Lu\u00eds Gomes"
+        },
+        {
+            "nome": "Maca\u00edba"
+        },
+        {
+            "nome": "Macau"
+        },
+        {
+            "nome": "Major Sales"
+        },
+        {
+            "nome": "Marcelino Vieira"
+        },
+        {
+            "nome": "Martins"
+        },
+        {
+            "nome": "Maxaranguape"
+        },
+        {
+            "nome": "Messias Targino"
+        },
+        {
+            "nome": "Montanhas"
+        },
+        {
+            "nome": "Monte Alegre"
+        },
+        {
+            "nome": "Monte das Gameleiras"
+        },
+        {
+            "nome": "Mossor\u00f3"
+        },
+        {
+            "nome": "Natal"
+        },
+        {
+            "nome": "N\u00edsia Floresta"
+        },
+        {
+            "nome": "Nova Cruz"
+        },
+        {
+            "nome": "Olho-d`\u00c1gua do Borges"
+        },
+        {
+            "nome": "Ouro Branco"
+        },
+        {
+            "nome": "Paran\u00e1"
+        },
+        {
+            "nome": "Para\u00fa"
+        },
+        {
+            "nome": "Parazinho"
+        },
+        {
+            "nome": "Parelhas"
+        },
+        {
+            "nome": "Parnamirim"
+        },
+        {
+            "nome": "Passa e Fica"
+        },
+        {
+            "nome": "Passagem"
+        },
+        {
+            "nome": "Patu"
+        },
+        {
+            "nome": "Pau dos Ferros"
+        },
+        {
+            "nome": "Pedra Grande"
+        },
+        {
+            "nome": "Pedra Preta"
+        },
+        {
+            "nome": "Pedro Avelino"
+        },
+        {
+            "nome": "Pedro Velho"
+        },
+        {
+            "nome": "Pend\u00eancias"
+        },
+        {
+            "nome": "Pil\u00f5es"
+        },
+        {
+            "nome": "Po\u00e7o Branco"
+        },
+        {
+            "nome": "Portalegre"
+        },
+        {
+            "nome": "Porto do Mangue"
+        },
+        {
+            "nome": "Presidente Juscelino"
+        },
+        {
+            "nome": "Pureza"
+        },
+        {
+            "nome": "Rafael Fernandes"
+        },
+        {
+            "nome": "Rafael Godeiro"
+        },
+        {
+            "nome": "Riacho da Cruz"
+        },
+        {
+            "nome": "Riacho de Santana"
+        },
+        {
+            "nome": "Riachuelo"
+        },
+        {
+            "nome": "Rio do Fogo"
+        },
+        {
+            "nome": "Rodolfo Fernandes"
+        },
+        {
+            "nome": "Ruy Barbosa"
+        },
+        {
+            "nome": "Santa Cruz"
+        },
+        {
+            "nome": "Santa Maria"
+        },
+        {
+            "nome": "Santana do Matos"
+        },
+        {
+            "nome": "Santana do Serid\u00f3"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio"
+        },
+        {
+            "nome": "S\u00e3o Bento do Norte"
+        },
+        {
+            "nome": "S\u00e3o Bento do Trair\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Fernando"
+        },
+        {
+            "nome": "S\u00e3o Francisco do Oeste"
+        },
+        {
+            "nome": "S\u00e3o Gon\u00e7alo do Amarante"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Sabugi"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Mipibu"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Campestre"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Serid\u00f3"
+        },
+        {
+            "nome": "S\u00e3o Miguel"
+        },
+        {
+            "nome": "S\u00e3o Miguel de Touros"
+        },
+        {
+            "nome": "S\u00e3o Paulo do Potengi"
+        },
+        {
+            "nome": "S\u00e3o Pedro"
+        },
+        {
+            "nome": "S\u00e3o Rafael"
+        },
+        {
+            "nome": "S\u00e3o Tom\u00e9"
+        },
+        {
+            "nome": "S\u00e3o Vicente"
+        },
+        {
+            "nome": "Senador El\u00f3i de Souza"
+        },
+        {
+            "nome": "Senador Georgino Avelino"
+        },
+        {
+            "nome": "Serra de S\u00e3o Bento"
+        },
+        {
+            "nome": "Serra do Mel"
+        },
+        {
+            "nome": "Serra Negra do Norte"
+        },
+        {
+            "nome": "Serrinha"
+        },
+        {
+            "nome": "Serrinha dos Pintos"
+        },
+        {
+            "nome": "Severiano Melo"
+        },
+        {
+            "nome": "S\u00edtio Novo"
+        },
+        {
+            "nome": "Taboleiro Grande"
+        },
+        {
+            "nome": "Taipu"
+        },
+        {
+            "nome": "Tangar\u00e1"
+        },
+        {
+            "nome": "Tenente Ananias"
+        },
+        {
+            "nome": "Tenente Laurentino Cruz"
+        },
+        {
+            "nome": "Tibau"
+        },
+        {
+            "nome": "Tibau do Sul"
+        },
+        {
+            "nome": "Timba\u00faba dos Batistas"
+        },
+        {
+            "nome": "Touros"
+        },
+        {
+            "nome": "Triunfo Potiguar"
+        },
+        {
+            "nome": "Umarizal"
+        },
+        {
+            "nome": "Upanema"
+        },
+        {
+            "nome": "V\u00e1rzea"
+        },
+        {
+            "nome": "Venha-Ver"
+        },
+        {
+            "nome": "Vera Cruz"
+        },
+        {
+            "nome": "Vi\u00e7osa"
+        },
+        {
+            "nome": "Vila Flor"
+        }
+    ]
+}

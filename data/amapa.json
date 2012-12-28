@@ -1,0 +1,54 @@
+{
+    "nome": "Amap\u00e1",
+    "sigla": "AP",
+    "cidades": [
+        {
+            "nome": "Amap\u00e1"
+        },
+        {
+            "nome": "Cal\u00e7oene"
+        },
+        {
+            "nome": "Cutias"
+        },
+        {
+            "nome": "Ferreira Gomes"
+        },
+        {
+            "nome": "Itaubal"
+        },
+        {
+            "nome": "Laranjal do Jari"
+        },
+        {
+            "nome": "Macap\u00e1"
+        },
+        {
+            "nome": "Mazag\u00e3o"
+        },
+        {
+            "nome": "Oiapoque"
+        },
+        {
+            "nome": "Pedra Branca do Amapar\u00ed"
+        },
+        {
+            "nome": "Porto Grande"
+        },
+        {
+            "nome": "Pracu\u00faba"
+        },
+        {
+            "nome": "Santana"
+        },
+        {
+            "nome": "Serra do Navio"
+        },
+        {
+            "nome": "Tartarugalzinho"
+        },
+        {
+            "nome": "Vit\u00f3ria do Jari"
+        }
+    ]
+}

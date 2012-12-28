@@ -1,0 +1,435 @@
+{
+    "nome": "Par\u00e1",
+    "sigla": "PA",
+    "cidades": [
+        {
+            "nome": "Abaetetuba"
+        },
+        {
+            "nome": "Abel Figueiredo"
+        },
+        {
+            "nome": "Acar\u00e1"
+        },
+        {
+            "nome": "Afu\u00e1"
+        },
+        {
+            "nome": "\u00c1gua Azul do Norte"
+        },
+        {
+            "nome": "Alenquer"
+        },
+        {
+            "nome": "Almeirim"
+        },
+        {
+            "nome": "Altamira"
+        },
+        {
+            "nome": "Anaj\u00e1s"
+        },
+        {
+            "nome": "Ananindeua"
+        },
+        {
+            "nome": "Anapu"
+        },
+        {
+            "nome": "Augusto Corr\u00eaa"
+        },
+        {
+            "nome": "Aurora do Par\u00e1"
+        },
+        {
+            "nome": "Aveiro"
+        },
+        {
+            "nome": "Bagre"
+        },
+        {
+            "nome": "Bai\u00e3o"
+        },
+        {
+            "nome": "Bannach"
+        },
+        {
+            "nome": "Barcarena"
+        },
+        {
+            "nome": "Bel\u00e9m"
+        },
+        {
+            "nome": "Belterra"
+        },
+        {
+            "nome": "Benevides"
+        },
+        {
+            "nome": "Bom Jesus do Tocantins"
+        },
+        {
+            "nome": "Bonito"
+        },
+        {
+            "nome": "Bragan\u00e7a"
+        },
+        {
+            "nome": "Brasil Novo"
+        },
+        {
+            "nome": "Brejo Grande do Araguaia"
+        },
+        {
+            "nome": "Breu Branco"
+        },
+        {
+            "nome": "Breves"
+        },
+        {
+            "nome": "Bujaru"
+        },
+        {
+            "nome": "Cachoeira do Arari"
+        },
+        {
+            "nome": "Cachoeira do Piri\u00e1"
+        },
+        {
+            "nome": "Camet\u00e1"
+        },
+        {
+            "nome": "Cana\u00e3 dos Caraj\u00e1s"
+        },
+        {
+            "nome": "Capanema"
+        },
+        {
+            "nome": "Capit\u00e3o Po\u00e7o"
+        },
+        {
+            "nome": "Castanhal"
+        },
+        {
+            "nome": "Chaves"
+        },
+        {
+            "nome": "Colares"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o do Araguaia"
+        },
+        {
+            "nome": "Conc\u00f3rdia do Par\u00e1"
+        },
+        {
+            "nome": "Cumaru do Norte"
+        },
+        {
+            "nome": "Curion\u00f3polis"
+        },
+        {
+            "nome": "Curralinho"
+        },
+        {
+            "nome": "Curu\u00e1"
+        },
+        {
+            "nome": "Curu\u00e7\u00e1"
+        },
+        {
+            "nome": "Dom Eliseu"
+        },
+        {
+            "nome": "Eldorado dos Caraj\u00e1s"
+        },
+        {
+            "nome": "Faro"
+        },
+        {
+            "nome": "Floresta do Araguaia"
+        },
+        {
+            "nome": "Garraf\u00e3o do Norte"
+        },
+        {
+            "nome": "Goian\u00e9sia do Par\u00e1"
+        },
+        {
+            "nome": "Gurup\u00e1"
+        },
+        {
+            "nome": "Igarap\u00e9-A\u00e7u"
+        },
+        {
+            "nome": "Igarap\u00e9-Miri"
+        },
+        {
+            "nome": "Inhangapi"
+        },
+        {
+            "nome": "Ipixuna do Par\u00e1"
+        },
+        {
+            "nome": "Irituia"
+        },
+        {
+            "nome": "Itaituba"
+        },
+        {
+            "nome": "Itupiranga"
+        },
+        {
+            "nome": "Jacareacanga"
+        },
+        {
+            "nome": "Jacund\u00e1"
+        },
+        {
+            "nome": "Juruti"
+        },
+        {
+            "nome": "Limoeiro do Ajuru"
+        },
+        {
+            "nome": "M\u00e3e do Rio"
+        },
+        {
+            "nome": "Magalh\u00e3es Barata"
+        },
+        {
+            "nome": "Marab\u00e1"
+        },
+        {
+            "nome": "Maracan\u00e3"
+        },
+        {
+            "nome": "Marapanim"
+        },
+        {
+            "nome": "Marituba"
+        },
+        {
+            "nome": "Medicil\u00e2ndia"
+        },
+        {
+            "nome": "Melga\u00e7o"
+        },
+        {
+            "nome": "Mocajuba"
+        },
+        {
+            "nome": "Moju"
+        },
+        {
+            "nome": "Monte Alegre"
+        },
+        {
+            "nome": "Muan\u00e1"
+        },
+        {
+            "nome": "Nova Esperan\u00e7a do Piri\u00e1"
+        },
+        {
+            "nome": "Nova Ipixuna"
+        },
+        {
+            "nome": "Nova Timboteua"
+        },
+        {
+            "nome": "Novo Progresso"
+        },
+        {
+            "nome": "Novo Repartimento"
+        },
+        {
+            "nome": "\u00d3bidos"
+        },
+        {
+            "nome": "Oeiras do Par\u00e1"
+        },
+        {
+            "nome": "Oriximin\u00e1"
+        },
+        {
+            "nome": "Our\u00e9m"
+        },
+        {
+            "nome": "Ouril\u00e2ndia do Norte"
+        },
+        {
+            "nome": "Pacaj\u00e1"
+        },
+        {
+            "nome": "Palestina do Par\u00e1"
+        },
+        {
+            "nome": "Paragominas"
+        },
+        {
+            "nome": "Parauapebas"
+        },
+        {
+            "nome": "Pau d`Arco"
+        },
+        {
+            "nome": "Peixe-Boi"
+        },
+        {
+            "nome": "Pi\u00e7arra"
+        },
+        {
+            "nome": "Placas"
+        },
+        {
+            "nome": "Ponta de Pedras"
+        },
+        {
+            "nome": "Portel"
+        },
+        {
+            "nome": "Porto de Moz"
+        },
+        {
+            "nome": "Prainha"
+        },
+        {
+            "nome": "Primavera"
+        },
+        {
+            "nome": "Quatipuru"
+        },
+        {
+            "nome": "Reden\u00e7\u00e3o"
+        },
+        {
+            "nome": "Rio Maria"
+        },
+        {
+            "nome": "Rondon do Par\u00e1"
+        },
+        {
+            "nome": "Rur\u00f3polis"
+        },
+        {
+            "nome": "Salin\u00f3polis"
+        },
+        {
+            "nome": "Salvaterra"
+        },
+        {
+            "nome": "Santa B\u00e1rbara do Par\u00e1"
+        },
+        {
+            "nome": "Santa Cruz do Arari"
+        },
+        {
+            "nome": "Santa Isabel do Par\u00e1"
+        },
+        {
+            "nome": "Santa Luzia do Par\u00e1"
+        },
+        {
+            "nome": "Santa Maria das Barreiras"
+        },
+        {
+            "nome": "Santa Maria do Par\u00e1"
+        },
+        {
+            "nome": "Santana do Araguaia"
+        },
+        {
+            "nome": "Santar\u00e9m"
+        },
+        {
+            "nome": "Santar\u00e9m Novo"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio do Tau\u00e1"
+        },
+        {
+            "nome": "S\u00e3o Caetano de Odivelas"
+        },
+        {
+            "nome": "S\u00e3o Domingos do Araguaia"
+        },
+        {
+            "nome": "S\u00e3o Domingos do Capim"
+        },
+        {
+            "nome": "S\u00e3o F\u00e9lix do Xingu"
+        },
+        {
+            "nome": "S\u00e3o Francisco do Par\u00e1"
+        },
+        {
+            "nome": "S\u00e3o Geraldo do Araguaia"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Ponta"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o de Pirabas"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Araguaia"
+        },
+        {
+            "nome": "S\u00e3o Miguel do Guam\u00e1"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o da Boa Vista"
+        },
+        {
+            "nome": "Sapucaia"
+        },
+        {
+            "nome": "Senador Jos\u00e9 Porf\u00edrio"
+        },
+        {
+            "nome": "Soure"
+        },
+        {
+            "nome": "Tail\u00e2ndia"
+        },
+        {
+            "nome": "Terra Alta"
+        },
+        {
+            "nome": "Terra Santa"
+        },
+        {
+            "nome": "Tom\u00e9-A\u00e7u"
+        },
+        {
+            "nome": "Tracuateua"
+        },
+        {
+            "nome": "Trair\u00e3o"
+        },
+        {
+            "nome": "Tucum\u00e3"
+        },
+        {
+            "nome": "Tucuru\u00ed"
+        },
+        {
+            "nome": "Ulian\u00f3polis"
+        },
+        {
+            "nome": "Uruar\u00e1"
+        },
+        {
+            "nome": "Vigia"
+        },
+        {
+            "nome": "Viseu"
+        },
+        {
+            "nome": "Vit\u00f3ria do Xingu"
+        },
+        {
+            "nome": "Xinguara"
+        }
+    ]
+}

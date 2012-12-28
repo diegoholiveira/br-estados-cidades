@@ -1,0 +1,309 @@
+{
+    "nome": "Alagoas",
+    "sigla": "AL",
+    "cidades": [
+        {
+            "nome": "\u00c1gua Branca"
+        },
+        {
+            "nome": "Anadia"
+        },
+        {
+            "nome": "Arapiraca"
+        },
+        {
+            "nome": "Atalaia"
+        },
+        {
+            "nome": "Barra de Santo Ant\u00f4nio"
+        },
+        {
+            "nome": "Barra de S\u00e3o Miguel"
+        },
+        {
+            "nome": "Batalha"
+        },
+        {
+            "nome": "Bel\u00e9m"
+        },
+        {
+            "nome": "Belo Monte"
+        },
+        {
+            "nome": "Boca da Mata"
+        },
+        {
+            "nome": "Branquinha"
+        },
+        {
+            "nome": "Cacimbinhas"
+        },
+        {
+            "nome": "Cajueiro"
+        },
+        {
+            "nome": "Campestre"
+        },
+        {
+            "nome": "Campo Alegre"
+        },
+        {
+            "nome": "Campo Grande"
+        },
+        {
+            "nome": "Canapi"
+        },
+        {
+            "nome": "Capela"
+        },
+        {
+            "nome": "Carneiros"
+        },
+        {
+            "nome": "Ch\u00e3 Preta"
+        },
+        {
+            "nome": "Coit\u00e9 do N\u00f3ia"
+        },
+        {
+            "nome": "Col\u00f4nia Leopoldina"
+        },
+        {
+            "nome": "Coqueiro Seco"
+        },
+        {
+            "nome": "Coruripe"
+        },
+        {
+            "nome": "Cra\u00edbas"
+        },
+        {
+            "nome": "Delmiro Gouveia"
+        },
+        {
+            "nome": "Dois Riachos"
+        },
+        {
+            "nome": "Estrela de Alagoas"
+        },
+        {
+            "nome": "Feira Grande"
+        },
+        {
+            "nome": "Feliz Deserto"
+        },
+        {
+            "nome": "Flexeiras"
+        },
+        {
+            "nome": "Girau do Ponciano"
+        },
+        {
+            "nome": "Ibateguara"
+        },
+        {
+            "nome": "Igaci"
+        },
+        {
+            "nome": "Igreja Nova"
+        },
+        {
+            "nome": "Inhapi"
+        },
+        {
+            "nome": "Jacar\u00e9 dos Homens"
+        },
+        {
+            "nome": "Jacu\u00edpe"
+        },
+        {
+            "nome": "Japaratinga"
+        },
+        {
+            "nome": "Jaramataia"
+        },
+        {
+            "nome": "Joaquim Gomes"
+        },
+        {
+            "nome": "Jundi\u00e1"
+        },
+        {
+            "nome": "Junqueiro"
+        },
+        {
+            "nome": "Lagoa da Canoa"
+        },
+        {
+            "nome": "Limoeiro de Anadia"
+        },
+        {
+            "nome": "Macei\u00f3"
+        },
+        {
+            "nome": "Major Isidoro"
+        },
+        {
+            "nome": "Mar Vermelho"
+        },
+        {
+            "nome": "Maragogi"
+        },
+        {
+            "nome": "Maravilha"
+        },
+        {
+            "nome": "Marechal Deodoro"
+        },
+        {
+            "nome": "Maribondo"
+        },
+        {
+            "nome": "Mata Grande"
+        },
+        {
+            "nome": "Matriz de Camaragibe"
+        },
+        {
+            "nome": "Messias"
+        },
+        {
+            "nome": "Minador do Negr\u00e3o"
+        },
+        {
+            "nome": "Monteir\u00f3polis"
+        },
+        {
+            "nome": "Murici"
+        },
+        {
+            "nome": "Novo Lino"
+        },
+        {
+            "nome": "Olho d`\u00c1gua das Flores"
+        },
+        {
+            "nome": "Olho d`\u00c1gua do Casado"
+        },
+        {
+            "nome": "Olho d`\u00c1gua Grande"
+        },
+        {
+            "nome": "Oliven\u00e7a"
+        },
+        {
+            "nome": "Ouro Branco"
+        },
+        {
+            "nome": "Palestina"
+        },
+        {
+            "nome": "Palmeira dos \u00cdndios"
+        },
+        {
+            "nome": "P\u00e3o de A\u00e7\u00facar"
+        },
+        {
+            "nome": "Pariconha"
+        },
+        {
+            "nome": "Paripueira"
+        },
+        {
+            "nome": "Passo de Camaragibe"
+        },
+        {
+            "nome": "Paulo Jacinto"
+        },
+        {
+            "nome": "Penedo"
+        },
+        {
+            "nome": "Pia\u00e7abu\u00e7u"
+        },
+        {
+            "nome": "Pilar"
+        },
+        {
+            "nome": "Pindoba"
+        },
+        {
+            "nome": "Piranhas"
+        },
+        {
+            "nome": "Po\u00e7o das Trincheiras"
+        },
+        {
+            "nome": "Porto Calvo"
+        },
+        {
+            "nome": "Porto de Pedras"
+        },
+        {
+            "nome": "Porto Real do Col\u00e9gio"
+        },
+        {
+            "nome": "Quebrangulo"
+        },
+        {
+            "nome": "Rio Largo"
+        },
+        {
+            "nome": "Roteiro"
+        },
+        {
+            "nome": "Santa Luzia do Norte"
+        },
+        {
+            "nome": "Santana do Ipanema"
+        },
+        {
+            "nome": "Santana do Munda\u00fa"
+        },
+        {
+            "nome": "S\u00e3o Br\u00e1s"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 da Laje"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 da Tapera"
+        },
+        {
+            "nome": "S\u00e3o Lu\u00eds do Quitunde"
+        },
+        {
+            "nome": "S\u00e3o Miguel dos Campos"
+        },
+        {
+            "nome": "S\u00e3o Miguel dos Milagres"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o"
+        },
+        {
+            "nome": "Satuba"
+        },
+        {
+            "nome": "Senador Rui Palmeira"
+        },
+        {
+            "nome": "Tanque d`Arca"
+        },
+        {
+            "nome": "Taquarana"
+        },
+        {
+            "nome": "Teot\u00f4nio Vilela"
+        },
+        {
+            "nome": "Traipu"
+        },
+        {
+            "nome": "Uni\u00e3o dos Palmares"
+        },
+        {
+            "nome": "Vi\u00e7osa"
+        }
+    ]
+}

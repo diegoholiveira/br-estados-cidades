@@ -1,0 +1,423 @@
+{
+    "nome": "Tocantins",
+    "sigla": "TO",
+    "cidades": [
+        {
+            "nome": "Abreul\u00e2ndia"
+        },
+        {
+            "nome": "Aguiarn\u00f3polis"
+        },
+        {
+            "nome": "Alian\u00e7a do Tocantins"
+        },
+        {
+            "nome": "Almas"
+        },
+        {
+            "nome": "Alvorada"
+        },
+        {
+            "nome": "Anan\u00e1s"
+        },
+        {
+            "nome": "Angico"
+        },
+        {
+            "nome": "Aparecida do Rio Negro"
+        },
+        {
+            "nome": "Aragominas"
+        },
+        {
+            "nome": "Araguacema"
+        },
+        {
+            "nome": "Aragua\u00e7u"
+        },
+        {
+            "nome": "Aragua\u00edna"
+        },
+        {
+            "nome": "Araguan\u00e3"
+        },
+        {
+            "nome": "Araguatins"
+        },
+        {
+            "nome": "Arapoema"
+        },
+        {
+            "nome": "Arraias"
+        },
+        {
+            "nome": "Augustin\u00f3polis"
+        },
+        {
+            "nome": "Aurora do Tocantins"
+        },
+        {
+            "nome": "Axix\u00e1 do Tocantins"
+        },
+        {
+            "nome": "Baba\u00e7ul\u00e2ndia"
+        },
+        {
+            "nome": "Bandeirantes do Tocantins"
+        },
+        {
+            "nome": "Barra do Ouro"
+        },
+        {
+            "nome": "Barrol\u00e2ndia"
+        },
+        {
+            "nome": "Bernardo Say\u00e3o"
+        },
+        {
+            "nome": "Bom Jesus do Tocantins"
+        },
+        {
+            "nome": "Brasil\u00e2ndia do Tocantins"
+        },
+        {
+            "nome": "Brejinho de Nazar\u00e9"
+        },
+        {
+            "nome": "Buriti do Tocantins"
+        },
+        {
+            "nome": "Cachoeirinha"
+        },
+        {
+            "nome": "Campos Lindos"
+        },
+        {
+            "nome": "Cariri do Tocantins"
+        },
+        {
+            "nome": "Carmol\u00e2ndia"
+        },
+        {
+            "nome": "Carrasco Bonito"
+        },
+        {
+            "nome": "Caseara"
+        },
+        {
+            "nome": "Centen\u00e1rio"
+        },
+        {
+            "nome": "Chapada da Natividade"
+        },
+        {
+            "nome": "Chapada de Areia"
+        },
+        {
+            "nome": "Colinas do Tocantins"
+        },
+        {
+            "nome": "Colm\u00e9ia"
+        },
+        {
+            "nome": "Combinado"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o do Tocantins"
+        },
+        {
+            "nome": "Couto de Magalh\u00e3es"
+        },
+        {
+            "nome": "Cristal\u00e2ndia"
+        },
+        {
+            "nome": "Crix\u00e1s do Tocantins"
+        },
+        {
+            "nome": "Darcin\u00f3polis"
+        },
+        {
+            "nome": "Dian\u00f3polis"
+        },
+        {
+            "nome": "Divin\u00f3polis do Tocantins"
+        },
+        {
+            "nome": "Dois Irm\u00e3os do Tocantins"
+        },
+        {
+            "nome": "Duer\u00e9"
+        },
+        {
+            "nome": "Esperantina"
+        },
+        {
+            "nome": "F\u00e1tima"
+        },
+        {
+            "nome": "Figueir\u00f3polis"
+        },
+        {
+            "nome": "Filad\u00e9lfia"
+        },
+        {
+            "nome": "Formoso do Araguaia"
+        },
+        {
+            "nome": "Fortaleza do Taboc\u00e3o"
+        },
+        {
+            "nome": "Goianorte"
+        },
+        {
+            "nome": "Goiatins"
+        },
+        {
+            "nome": "Guara\u00ed"
+        },
+        {
+            "nome": "Gurupi"
+        },
+        {
+            "nome": "Ipueiras"
+        },
+        {
+            "nome": "Itacaj\u00e1"
+        },
+        {
+            "nome": "Itaguatins"
+        },
+        {
+            "nome": "Itapiratins"
+        },
+        {
+            "nome": "Itapor\u00e3 do Tocantins"
+        },
+        {
+            "nome": "Ja\u00fa do Tocantins"
+        },
+        {
+            "nome": "Juarina"
+        },
+        {
+            "nome": "Lagoa da Confus\u00e3o"
+        },
+        {
+            "nome": "Lagoa do Tocantins"
+        },
+        {
+            "nome": "Lajeado"
+        },
+        {
+            "nome": "Lavandeira"
+        },
+        {
+            "nome": "Lizarda"
+        },
+        {
+            "nome": "Luzin\u00f3polis"
+        },
+        {
+            "nome": "Marian\u00f3polis do Tocantins"
+        },
+        {
+            "nome": "Mateiros"
+        },
+        {
+            "nome": "Mauril\u00e2ndia do Tocantins"
+        },
+        {
+            "nome": "Miracema do Tocantins"
+        },
+        {
+            "nome": "Miranorte"
+        },
+        {
+            "nome": "Monte do Carmo"
+        },
+        {
+            "nome": "Monte Santo do Tocantins"
+        },
+        {
+            "nome": "Muricil\u00e2ndia"
+        },
+        {
+            "nome": "Natividade"
+        },
+        {
+            "nome": "Nazar\u00e9"
+        },
+        {
+            "nome": "Nova Olinda"
+        },
+        {
+            "nome": "Nova Rosal\u00e2ndia"
+        },
+        {
+            "nome": "Novo Acordo"
+        },
+        {
+            "nome": "Novo Alegre"
+        },
+        {
+            "nome": "Novo Jardim"
+        },
+        {
+            "nome": "Oliveira de F\u00e1tima"
+        },
+        {
+            "nome": "Palmas"
+        },
+        {
+            "nome": "Palmeirante"
+        },
+        {
+            "nome": "Palmeiras do Tocantins"
+        },
+        {
+            "nome": "Palmeir\u00f3polis"
+        },
+        {
+            "nome": "Para\u00edso do Tocantins"
+        },
+        {
+            "nome": "Paran\u00e3"
+        },
+        {
+            "nome": "Pau d`Arco"
+        },
+        {
+            "nome": "Pedro Afonso"
+        },
+        {
+            "nome": "Peixe"
+        },
+        {
+            "nome": "Pequizeiro"
+        },
+        {
+            "nome": "Pindorama do Tocantins"
+        },
+        {
+            "nome": "Piraqu\u00ea"
+        },
+        {
+            "nome": "Pium"
+        },
+        {
+            "nome": "Ponte Alta do Bom Jesus"
+        },
+        {
+            "nome": "Ponte Alta do Tocantins"
+        },
+        {
+            "nome": "Porto Alegre do Tocantins"
+        },
+        {
+            "nome": "Porto Nacional"
+        },
+        {
+            "nome": "Praia Norte"
+        },
+        {
+            "nome": "Presidente Kennedy"
+        },
+        {
+            "nome": "Pugmil"
+        },
+        {
+            "nome": "Recursol\u00e2ndia"
+        },
+        {
+            "nome": "Riachinho"
+        },
+        {
+            "nome": "Rio da Concei\u00e7\u00e3o"
+        },
+        {
+            "nome": "Rio dos Bois"
+        },
+        {
+            "nome": "Rio Sono"
+        },
+        {
+            "nome": "Sampaio"
+        },
+        {
+            "nome": "Sandol\u00e2ndia"
+        },
+        {
+            "nome": "Santa F\u00e9 do Araguaia"
+        },
+        {
+            "nome": "Santa Maria do Tocantins"
+        },
+        {
+            "nome": "Santa Rita do Tocantins"
+        },
+        {
+            "nome": "Santa Rosa do Tocantins"
+        },
+        {
+            "nome": "Santa Tereza do Tocantins"
+        },
+        {
+            "nome": "Santa Terezinha do Tocantins"
+        },
+        {
+            "nome": "S\u00e3o Bento do Tocantins"
+        },
+        {
+            "nome": "S\u00e3o F\u00e9lix do Tocantins"
+        },
+        {
+            "nome": "S\u00e3o Miguel do Tocantins"
+        },
+        {
+            "nome": "S\u00e3o Salvador do Tocantins"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o do Tocantins"
+        },
+        {
+            "nome": "S\u00e3o Val\u00e9rio da Natividade"
+        },
+        {
+            "nome": "Silvan\u00f3polis"
+        },
+        {
+            "nome": "S\u00edtio Novo do Tocantins"
+        },
+        {
+            "nome": "Sucupira"
+        },
+        {
+            "nome": "Taguatinga"
+        },
+        {
+            "nome": "Taipas do Tocantins"
+        },
+        {
+            "nome": "Talism\u00e3"
+        },
+        {
+            "nome": "Tocant\u00ednia"
+        },
+        {
+            "nome": "Tocantin\u00f3polis"
+        },
+        {
+            "nome": "Tupirama"
+        },
+        {
+            "nome": "Tupiratins"
+        },
+        {
+            "nome": "Wanderl\u00e2ndia"
+        },
+        {
+            "nome": "Xambio\u00e1"
+        }
+    ]
+}

@@ -1,0 +1,675 @@
+{
+    "nome": "Para\u00edba",
+    "sigla": "PB",
+    "cidades": [
+        {
+            "nome": "\u00c1gua Branca"
+        },
+        {
+            "nome": "Aguiar"
+        },
+        {
+            "nome": "Alagoa Grande"
+        },
+        {
+            "nome": "Alagoa Nova"
+        },
+        {
+            "nome": "Alagoinha"
+        },
+        {
+            "nome": "Alcantil"
+        },
+        {
+            "nome": "Algod\u00e3o de Janda\u00edra"
+        },
+        {
+            "nome": "Alhandra"
+        },
+        {
+            "nome": "Amparo"
+        },
+        {
+            "nome": "Aparecida"
+        },
+        {
+            "nome": "Ara\u00e7agi"
+        },
+        {
+            "nome": "Arara"
+        },
+        {
+            "nome": "Araruna"
+        },
+        {
+            "nome": "Areia"
+        },
+        {
+            "nome": "Areia de Bara\u00fanas"
+        },
+        {
+            "nome": "Areial"
+        },
+        {
+            "nome": "Aroeiras"
+        },
+        {
+            "nome": "Assun\u00e7\u00e3o"
+        },
+        {
+            "nome": "Ba\u00eda da Trai\u00e7\u00e3o"
+        },
+        {
+            "nome": "Bananeiras"
+        },
+        {
+            "nome": "Bara\u00fana"
+        },
+        {
+            "nome": "Barra de Santa Rosa"
+        },
+        {
+            "nome": "Barra de Santana"
+        },
+        {
+            "nome": "Barra de S\u00e3o Miguel"
+        },
+        {
+            "nome": "Bayeux"
+        },
+        {
+            "nome": "Bel\u00e9m"
+        },
+        {
+            "nome": "Bel\u00e9m do Brejo do Cruz"
+        },
+        {
+            "nome": "Bernardino Batista"
+        },
+        {
+            "nome": "Boa Ventura"
+        },
+        {
+            "nome": "Boa Vista"
+        },
+        {
+            "nome": "Bom Jesus"
+        },
+        {
+            "nome": "Bom Sucesso"
+        },
+        {
+            "nome": "Bonito de Santa F\u00e9"
+        },
+        {
+            "nome": "Boqueir\u00e3o"
+        },
+        {
+            "nome": "Borborema"
+        },
+        {
+            "nome": "Brejo do Cruz"
+        },
+        {
+            "nome": "Brejo dos Santos"
+        },
+        {
+            "nome": "Caapor\u00e3"
+        },
+        {
+            "nome": "Cabaceiras"
+        },
+        {
+            "nome": "Cabedelo"
+        },
+        {
+            "nome": "Cachoeira dos \u00cdndios"
+        },
+        {
+            "nome": "Cacimba de Areia"
+        },
+        {
+            "nome": "Cacimba de Dentro"
+        },
+        {
+            "nome": "Cacimbas"
+        },
+        {
+            "nome": "Cai\u00e7ara"
+        },
+        {
+            "nome": "Cajazeiras"
+        },
+        {
+            "nome": "Cajazeirinhas"
+        },
+        {
+            "nome": "Caldas Brand\u00e3o"
+        },
+        {
+            "nome": "Camala\u00fa"
+        },
+        {
+            "nome": "Campina Grande"
+        },
+        {
+            "nome": "Campo de Santana"
+        },
+        {
+            "nome": "Capim"
+        },
+        {
+            "nome": "Cara\u00fabas"
+        },
+        {
+            "nome": "Carrapateira"
+        },
+        {
+            "nome": "Casserengue"
+        },
+        {
+            "nome": "Catingueira"
+        },
+        {
+            "nome": "Catol\u00e9 do Rocha"
+        },
+        {
+            "nome": "Caturit\u00e9"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o"
+        },
+        {
+            "nome": "Condado"
+        },
+        {
+            "nome": "Conde"
+        },
+        {
+            "nome": "Congo"
+        },
+        {
+            "nome": "Coremas"
+        },
+        {
+            "nome": "Coxixola"
+        },
+        {
+            "nome": "Cruz do Esp\u00edrito Santo"
+        },
+        {
+            "nome": "Cubati"
+        },
+        {
+            "nome": "Cuit\u00e9"
+        },
+        {
+            "nome": "Cuit\u00e9 de Mamanguape"
+        },
+        {
+            "nome": "Cuitegi"
+        },
+        {
+            "nome": "Curral de Cima"
+        },
+        {
+            "nome": "Curral Velho"
+        },
+        {
+            "nome": "Dami\u00e3o"
+        },
+        {
+            "nome": "Desterro"
+        },
+        {
+            "nome": "Diamante"
+        },
+        {
+            "nome": "Dona In\u00eas"
+        },
+        {
+            "nome": "Duas Estradas"
+        },
+        {
+            "nome": "Emas"
+        },
+        {
+            "nome": "Esperan\u00e7a"
+        },
+        {
+            "nome": "Fagundes"
+        },
+        {
+            "nome": "Frei Martinho"
+        },
+        {
+            "nome": "Gado Bravo"
+        },
+        {
+            "nome": "Guarabira"
+        },
+        {
+            "nome": "Gurinh\u00e9m"
+        },
+        {
+            "nome": "Gurj\u00e3o"
+        },
+        {
+            "nome": "Ibiara"
+        },
+        {
+            "nome": "Igaracy"
+        },
+        {
+            "nome": "Imaculada"
+        },
+        {
+            "nome": "Ing\u00e1"
+        },
+        {
+            "nome": "Itabaiana"
+        },
+        {
+            "nome": "Itaporanga"
+        },
+        {
+            "nome": "Itapororoca"
+        },
+        {
+            "nome": "Itatuba"
+        },
+        {
+            "nome": "Jacara\u00fa"
+        },
+        {
+            "nome": "Jeric\u00f3"
+        },
+        {
+            "nome": "Jo\u00e3o Pessoa"
+        },
+        {
+            "nome": "Juarez T\u00e1vora"
+        },
+        {
+            "nome": "Juazeirinho"
+        },
+        {
+            "nome": "Junco do Serid\u00f3"
+        },
+        {
+            "nome": "Juripiranga"
+        },
+        {
+            "nome": "Juru"
+        },
+        {
+            "nome": "Lagoa"
+        },
+        {
+            "nome": "Lagoa de Dentro"
+        },
+        {
+            "nome": "Lagoa Seca"
+        },
+        {
+            "nome": "Lastro"
+        },
+        {
+            "nome": "Livramento"
+        },
+        {
+            "nome": "Logradouro"
+        },
+        {
+            "nome": "Lucena"
+        },
+        {
+            "nome": "M\u00e3e d`\u00c1gua"
+        },
+        {
+            "nome": "Malta"
+        },
+        {
+            "nome": "Mamanguape"
+        },
+        {
+            "nome": "Mana\u00edra"
+        },
+        {
+            "nome": "Marca\u00e7\u00e3o"
+        },
+        {
+            "nome": "Mari"
+        },
+        {
+            "nome": "Mariz\u00f3polis"
+        },
+        {
+            "nome": "Massaranduba"
+        },
+        {
+            "nome": "Mataraca"
+        },
+        {
+            "nome": "Matinhas"
+        },
+        {
+            "nome": "Mato Grosso"
+        },
+        {
+            "nome": "Matur\u00e9ia"
+        },
+        {
+            "nome": "Mogeiro"
+        },
+        {
+            "nome": "Montadas"
+        },
+        {
+            "nome": "Monte Horebe"
+        },
+        {
+            "nome": "Monteiro"
+        },
+        {
+            "nome": "Mulungu"
+        },
+        {
+            "nome": "Natuba"
+        },
+        {
+            "nome": "Nazarezinho"
+        },
+        {
+            "nome": "Nova Floresta"
+        },
+        {
+            "nome": "Nova Olinda"
+        },
+        {
+            "nome": "Nova Palmeira"
+        },
+        {
+            "nome": "Olho d`\u00c1gua"
+        },
+        {
+            "nome": "Olivedos"
+        },
+        {
+            "nome": "Ouro Velho"
+        },
+        {
+            "nome": "Parari"
+        },
+        {
+            "nome": "Passagem"
+        },
+        {
+            "nome": "Patos"
+        },
+        {
+            "nome": "Paulista"
+        },
+        {
+            "nome": "Pedra Branca"
+        },
+        {
+            "nome": "Pedra Lavrada"
+        },
+        {
+            "nome": "Pedras de Fogo"
+        },
+        {
+            "nome": "Pedro R\u00e9gis"
+        },
+        {
+            "nome": "Pianc\u00f3"
+        },
+        {
+            "nome": "Picu\u00ed"
+        },
+        {
+            "nome": "Pilar"
+        },
+        {
+            "nome": "Pil\u00f5es"
+        },
+        {
+            "nome": "Pil\u00f5ezinhos"
+        },
+        {
+            "nome": "Pirpirituba"
+        },
+        {
+            "nome": "Pitimbu"
+        },
+        {
+            "nome": "Pocinhos"
+        },
+        {
+            "nome": "Po\u00e7o Dantas"
+        },
+        {
+            "nome": "Po\u00e7o de Jos\u00e9 de Moura"
+        },
+        {
+            "nome": "Pombal"
+        },
+        {
+            "nome": "Prata"
+        },
+        {
+            "nome": "Princesa Isabel"
+        },
+        {
+            "nome": "Puxinan\u00e3"
+        },
+        {
+            "nome": "Queimadas"
+        },
+        {
+            "nome": "Quixab\u00e1"
+        },
+        {
+            "nome": "Rem\u00edgio"
+        },
+        {
+            "nome": "Riach\u00e3o"
+        },
+        {
+            "nome": "Riach\u00e3o do Bacamarte"
+        },
+        {
+            "nome": "Riach\u00e3o do Po\u00e7o"
+        },
+        {
+            "nome": "Riacho de Santo Ant\u00f4nio"
+        },
+        {
+            "nome": "Riacho dos Cavalos"
+        },
+        {
+            "nome": "Rio Tinto"
+        },
+        {
+            "nome": "Salgadinho"
+        },
+        {
+            "nome": "Salgado de S\u00e3o F\u00e9lix"
+        },
+        {
+            "nome": "Santa Cec\u00edlia"
+        },
+        {
+            "nome": "Santa Cruz"
+        },
+        {
+            "nome": "Santa Helena"
+        },
+        {
+            "nome": "Santa In\u00eas"
+        },
+        {
+            "nome": "Santa Luzia"
+        },
+        {
+            "nome": "Santa Rita"
+        },
+        {
+            "nome": "Santa Teresinha"
+        },
+        {
+            "nome": "Santana de Mangueira"
+        },
+        {
+            "nome": "Santana dos Garrotes"
+        },
+        {
+            "nome": "Santar\u00e9m"
+        },
+        {
+            "nome": "Santo Andr\u00e9"
+        },
+        {
+            "nome": "S\u00e3o Bentinho"
+        },
+        {
+            "nome": "S\u00e3o Bento"
+        },
+        {
+            "nome": "S\u00e3o Domingos de Pombal"
+        },
+        {
+            "nome": "S\u00e3o Domingos do Cariri"
+        },
+        {
+            "nome": "S\u00e3o Francisco"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Cariri"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Rio do Peixe"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Tigre"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 da Lagoa Tapada"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Caiana"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Espinharas"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Piranhas"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Princesa"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Bonfim"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Brejo do Cruz"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Sabugi"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 dos Cordeiros"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 dos Ramos"
+        },
+        {
+            "nome": "S\u00e3o Mamede"
+        },
+        {
+            "nome": "S\u00e3o Miguel de Taipu"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o de Lagoa de Ro\u00e7a"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o do Umbuzeiro"
+        },
+        {
+            "nome": "Sap\u00e9"
+        },
+        {
+            "nome": "Serid\u00f3"
+        },
+        {
+            "nome": "Serra Branca"
+        },
+        {
+            "nome": "Serra da Raiz"
+        },
+        {
+            "nome": "Serra Grande"
+        },
+        {
+            "nome": "Serra Redonda"
+        },
+        {
+            "nome": "Serraria"
+        },
+        {
+            "nome": "Sert\u00e3ozinho"
+        },
+        {
+            "nome": "Sobrado"
+        },
+        {
+            "nome": "Sol\u00e2nea"
+        },
+        {
+            "nome": "Soledade"
+        },
+        {
+            "nome": "Soss\u00eago"
+        },
+        {
+            "nome": "Sousa"
+        },
+        {
+            "nome": "Sum\u00e9"
+        },
+        {
+            "nome": "Tapero\u00e1"
+        },
+        {
+            "nome": "Tavares"
+        },
+        {
+            "nome": "Teixeira"
+        },
+        {
+            "nome": "Ten\u00f3rio"
+        },
+        {
+            "nome": "Triunfo"
+        },
+        {
+            "nome": "Uira\u00fana"
+        },
+        {
+            "nome": "Umbuzeiro"
+        },
+        {
+            "nome": "V\u00e1rzea"
+        },
+        {
+            "nome": "Vieir\u00f3polis"
+        },
+        {
+            "nome": "Vista Serrana"
+        },
+        {
+            "nome": "Zabel\u00ea"
+        }
+    ]
+}

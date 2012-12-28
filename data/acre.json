@@ -1,0 +1,72 @@
+{
+    "nome": "Acre",
+    "sigla": "AC",
+    "cidades": [
+        {
+            "nome": "Acrel\u00e2ndia"
+        },
+        {
+            "nome": "Assis Brasil"
+        },
+        {
+            "nome": "Brasil\u00e9ia"
+        },
+        {
+            "nome": "Bujari"
+        },
+        {
+            "nome": "Capixaba"
+        },
+        {
+            "nome": "Cruzeiro do Sul"
+        },
+        {
+            "nome": "Epitaciol\u00e2ndia"
+        },
+        {
+            "nome": "Feij\u00f3"
+        },
+        {
+            "nome": "Jord\u00e3o"
+        },
+        {
+            "nome": "M\u00e2ncio Lima"
+        },
+        {
+            "nome": "Manoel Urbano"
+        },
+        {
+            "nome": "Marechal Thaumaturgo"
+        },
+        {
+            "nome": "Pl\u00e1cido de Castro"
+        },
+        {
+            "nome": "Porto Acre"
+        },
+        {
+            "nome": "Porto Walter"
+        },
+        {
+            "nome": "Rio Branco"
+        },
+        {
+            "nome": "Rodrigues Alves"
+        },
+        {
+            "nome": "Santa Rosa do Purus"
+        },
+        {
+            "nome": "Sena Madureira"
+        },
+        {
+            "nome": "Senador Guiomard"
+        },
+        {
+            "nome": "Tarauac\u00e1"
+        },
+        {
+            "nome": "Xapuri"
+        }
+    ]
+}

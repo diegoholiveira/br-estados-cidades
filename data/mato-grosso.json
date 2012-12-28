@@ -1,0 +1,384 @@
+{
+    "nome": "Mato Grosso",
+    "sigla": "MT",
+    "cidades": [
+        {
+            "nome": "Acorizal"
+        },
+        {
+            "nome": "\u00c1gua Boa"
+        },
+        {
+            "nome": "Alta Floresta"
+        },
+        {
+            "nome": "Alto Araguaia"
+        },
+        {
+            "nome": "Alto Boa Vista"
+        },
+        {
+            "nome": "Alto Gar\u00e7as"
+        },
+        {
+            "nome": "Alto Paraguai"
+        },
+        {
+            "nome": "Alto Taquari"
+        },
+        {
+            "nome": "Apiac\u00e1s"
+        },
+        {
+            "nome": "Araguaiana"
+        },
+        {
+            "nome": "Araguainha"
+        },
+        {
+            "nome": "Araputanga"
+        },
+        {
+            "nome": "Aren\u00e1polis"
+        },
+        {
+            "nome": "Aripuan\u00e3"
+        },
+        {
+            "nome": "Bar\u00e3o de Melga\u00e7o"
+        },
+        {
+            "nome": "Barra do Bugres"
+        },
+        {
+            "nome": "Barra do Gar\u00e7as"
+        },
+        {
+            "nome": "Brasnorte"
+        },
+        {
+            "nome": "C\u00e1ceres"
+        },
+        {
+            "nome": "Campin\u00e1polis"
+        },
+        {
+            "nome": "Campo Novo do Parecis"
+        },
+        {
+            "nome": "Campo Verde"
+        },
+        {
+            "nome": "Campos de J\u00falio"
+        },
+        {
+            "nome": "Canabrava do Norte"
+        },
+        {
+            "nome": "Canarana"
+        },
+        {
+            "nome": "Carlinda"
+        },
+        {
+            "nome": "Castanheira"
+        },
+        {
+            "nome": "Chapada dos Guimar\u00e3es"
+        },
+        {
+            "nome": "Cl\u00e1udia"
+        },
+        {
+            "nome": "Cocalinho"
+        },
+        {
+            "nome": "Col\u00edder"
+        },
+        {
+            "nome": "Comodoro"
+        },
+        {
+            "nome": "Confresa"
+        },
+        {
+            "nome": "Cotrigua\u00e7u"
+        },
+        {
+            "nome": "Cuiab\u00e1"
+        },
+        {
+            "nome": "Denise"
+        },
+        {
+            "nome": "Diamantino"
+        },
+        {
+            "nome": "Dom Aquino"
+        },
+        {
+            "nome": "Feliz Natal"
+        },
+        {
+            "nome": "Figueir\u00f3polis d`Oeste"
+        },
+        {
+            "nome": "Ga\u00facha do Norte"
+        },
+        {
+            "nome": "General Carneiro"
+        },
+        {
+            "nome": "Gl\u00f3ria d`Oeste"
+        },
+        {
+            "nome": "Guarant\u00e3 do Norte"
+        },
+        {
+            "nome": "Guiratinga"
+        },
+        {
+            "nome": "Indiava\u00ed"
+        },
+        {
+            "nome": "Ita\u00faba"
+        },
+        {
+            "nome": "Itiquira"
+        },
+        {
+            "nome": "Jaciara"
+        },
+        {
+            "nome": "Jangada"
+        },
+        {
+            "nome": "Jauru"
+        },
+        {
+            "nome": "Juara"
+        },
+        {
+            "nome": "Ju\u00edna"
+        },
+        {
+            "nome": "Juruena"
+        },
+        {
+            "nome": "Juscimeira"
+        },
+        {
+            "nome": "Lambari d`Oeste"
+        },
+        {
+            "nome": "Lucas do Rio Verde"
+        },
+        {
+            "nome": "Luci\u00e1ra"
+        },
+        {
+            "nome": "Marcel\u00e2ndia"
+        },
+        {
+            "nome": "Matup\u00e1"
+        },
+        {
+            "nome": "Mirassol d`Oeste"
+        },
+        {
+            "nome": "Nobres"
+        },
+        {
+            "nome": "Nortel\u00e2ndia"
+        },
+        {
+            "nome": "Nossa Senhora do Livramento"
+        },
+        {
+            "nome": "Nova Bandeirantes"
+        },
+        {
+            "nome": "Nova Brasil\u00e2ndia"
+        },
+        {
+            "nome": "Nova Cana\u00e3 do Norte"
+        },
+        {
+            "nome": "Nova Guarita"
+        },
+        {
+            "nome": "Nova Lacerda"
+        },
+        {
+            "nome": "Nova Maril\u00e2ndia"
+        },
+        {
+            "nome": "Nova Maring\u00e1"
+        },
+        {
+            "nome": "Nova Monte Verde"
+        },
+        {
+            "nome": "Nova Mutum"
+        },
+        {
+            "nome": "Nova Ol\u00edmpia"
+        },
+        {
+            "nome": "Nova Ubirat\u00e3"
+        },
+        {
+            "nome": "Nova Xavantina"
+        },
+        {
+            "nome": "Novo Horizonte do Norte"
+        },
+        {
+            "nome": "Novo Mundo"
+        },
+        {
+            "nome": "Novo S\u00e3o Joaquim"
+        },
+        {
+            "nome": "Parana\u00edta"
+        },
+        {
+            "nome": "Paranatinga"
+        },
+        {
+            "nome": "Pedra Preta"
+        },
+        {
+            "nome": "Peixoto de Azevedo"
+        },
+        {
+            "nome": "Planalto da Serra"
+        },
+        {
+            "nome": "Pocon\u00e9"
+        },
+        {
+            "nome": "Pontal do Araguaia"
+        },
+        {
+            "nome": "Ponte Branca"
+        },
+        {
+            "nome": "Pontes e Lacerda"
+        },
+        {
+            "nome": "Porto Alegre do Norte"
+        },
+        {
+            "nome": "Porto dos Ga\u00fachos"
+        },
+        {
+            "nome": "Porto Esperidi\u00e3o"
+        },
+        {
+            "nome": "Porto Estrela"
+        },
+        {
+            "nome": "Poxor\u00e9o"
+        },
+        {
+            "nome": "Primavera do Leste"
+        },
+        {
+            "nome": "Quer\u00eancia"
+        },
+        {
+            "nome": "Reserva do Caba\u00e7al"
+        },
+        {
+            "nome": "Ribeir\u00e3o Cascalheira"
+        },
+        {
+            "nome": "Ribeir\u00e3ozinho"
+        },
+        {
+            "nome": "Rio Branco"
+        },
+        {
+            "nome": "Rondon\u00f3polis"
+        },
+        {
+            "nome": "Ros\u00e1rio Oeste"
+        },
+        {
+            "nome": "Salto do C\u00e9u"
+        },
+        {
+            "nome": "Santa Carmem"
+        },
+        {
+            "nome": "Santa Terezinha"
+        },
+        {
+            "nome": "Santo Afonso"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio do Leverger"
+        },
+        {
+            "nome": "S\u00e3o F\u00e9lix do Araguaia"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Povo"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Rio Claro"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Xingu"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 dos Quatro Marcos"
+        },
+        {
+            "nome": "S\u00e3o Pedro da Cipa"
+        },
+        {
+            "nome": "Sapezal"
+        },
+        {
+            "nome": "Sinop"
+        },
+        {
+            "nome": "Sorriso"
+        },
+        {
+            "nome": "Tabapor\u00e3"
+        },
+        {
+            "nome": "Tangar\u00e1 da Serra"
+        },
+        {
+            "nome": "Tapurah"
+        },
+        {
+            "nome": "Terra Nova do Norte"
+        },
+        {
+            "nome": "Tesouro"
+        },
+        {
+            "nome": "Torixor\u00e9u"
+        },
+        {
+            "nome": "Uni\u00e3o do Sul"
+        },
+        {
+            "nome": "V\u00e1rzea Grande"
+        },
+        {
+            "nome": "Vera"
+        },
+        {
+            "nome": "Vila Bela da Sant\u00edssima Trindade"
+        },
+        {
+            "nome": "Vila Rica"
+        }
+    ]
+}

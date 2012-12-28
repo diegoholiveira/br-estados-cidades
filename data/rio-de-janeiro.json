@@ -1,0 +1,279 @@
+{
+    "nome": "Rio de Janeiro",
+    "sigla": "RJ",
+    "cidades": [
+        {
+            "nome": "Angra dos Reis"
+        },
+        {
+            "nome": "Aperib\u00e9"
+        },
+        {
+            "nome": "Araruama"
+        },
+        {
+            "nome": "Areal"
+        },
+        {
+            "nome": "Arma\u00e7\u00e3o dos B\u00fazios"
+        },
+        {
+            "nome": "Arraial do Cabo"
+        },
+        {
+            "nome": "Barra do Pira\u00ed"
+        },
+        {
+            "nome": "Barra Mansa"
+        },
+        {
+            "nome": "Belford Roxo"
+        },
+        {
+            "nome": "Bom Jardim"
+        },
+        {
+            "nome": "Bom Jesus do Itabapoana"
+        },
+        {
+            "nome": "Cabo Frio"
+        },
+        {
+            "nome": "Cachoeiras de Macacu"
+        },
+        {
+            "nome": "Cambuci"
+        },
+        {
+            "nome": "Campos dos Goytacazes"
+        },
+        {
+            "nome": "Cantagalo"
+        },
+        {
+            "nome": "Carapebus"
+        },
+        {
+            "nome": "Cardoso Moreira"
+        },
+        {
+            "nome": "Carmo"
+        },
+        {
+            "nome": "Casimiro de Abreu"
+        },
+        {
+            "nome": "Comendador Levy Gasparian"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o de Macabu"
+        },
+        {
+            "nome": "Cordeiro"
+        },
+        {
+            "nome": "Duas Barras"
+        },
+        {
+            "nome": "Duque de Caxias"
+        },
+        {
+            "nome": "Engenheiro Paulo de Frontin"
+        },
+        {
+            "nome": "Guapimirim"
+        },
+        {
+            "nome": "Iguaba Grande"
+        },
+        {
+            "nome": "Itabora\u00ed"
+        },
+        {
+            "nome": "Itagua\u00ed"
+        },
+        {
+            "nome": "Italva"
+        },
+        {
+            "nome": "Itaocara"
+        },
+        {
+            "nome": "Itaperuna"
+        },
+        {
+            "nome": "Itatiaia"
+        },
+        {
+            "nome": "Japeri"
+        },
+        {
+            "nome": "Laje do Muria\u00e9"
+        },
+        {
+            "nome": "Maca\u00e9"
+        },
+        {
+            "nome": "Macuco"
+        },
+        {
+            "nome": "Mag\u00e9"
+        },
+        {
+            "nome": "Mangaratiba"
+        },
+        {
+            "nome": "Maric\u00e1"
+        },
+        {
+            "nome": "Mendes"
+        },
+        {
+            "nome": "Miguel Pereira"
+        },
+        {
+            "nome": "Miracema"
+        },
+        {
+            "nome": "Natividade"
+        },
+        {
+            "nome": "Nil\u00f3polis"
+        },
+        {
+            "nome": "Niter\u00f3i"
+        },
+        {
+            "nome": "Nova Friburgo"
+        },
+        {
+            "nome": "Nova Igua\u00e7u"
+        },
+        {
+            "nome": "Paracambi"
+        },
+        {
+            "nome": "Para\u00edba do Sul"
+        },
+        {
+            "nome": "Parati"
+        },
+        {
+            "nome": "Paty do Alferes"
+        },
+        {
+            "nome": "Petr\u00f3polis"
+        },
+        {
+            "nome": "Pinheiral"
+        },
+        {
+            "nome": "Pira\u00ed"
+        },
+        {
+            "nome": "Porci\u00fancula"
+        },
+        {
+            "nome": "Porto Real"
+        },
+        {
+            "nome": "Quatis"
+        },
+        {
+            "nome": "Queimados"
+        },
+        {
+            "nome": "Quissam\u00e3"
+        },
+        {
+            "nome": "Resende"
+        },
+        {
+            "nome": "Rio Bonito"
+        },
+        {
+            "nome": "Rio Claro"
+        },
+        {
+            "nome": "Rio das Flores"
+        },
+        {
+            "nome": "Rio das Ostras"
+        },
+        {
+            "nome": "Rio de Janeiro"
+        },
+        {
+            "nome": "Santa Maria Madalena"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio de P\u00e1dua"
+        },
+        {
+            "nome": "S\u00e3o Fid\u00e9lis"
+        },
+        {
+            "nome": "S\u00e3o Francisco de Itabapoana"
+        },
+        {
+            "nome": "S\u00e3o Gon\u00e7alo"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Barra"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o de Meriti"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Ub\u00e1"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Vale do Rio Preto"
+        },
+        {
+            "nome": "S\u00e3o Pedro da Aldeia"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o do Alto"
+        },
+        {
+            "nome": "Sapucaia"
+        },
+        {
+            "nome": "Saquarema"
+        },
+        {
+            "nome": "Serop\u00e9dica"
+        },
+        {
+            "nome": "Silva Jardim"
+        },
+        {
+            "nome": "Sumidouro"
+        },
+        {
+            "nome": "Tangu\u00e1"
+        },
+        {
+            "nome": "Teres\u00f3polis"
+        },
+        {
+            "nome": "Trajano de Morais"
+        },
+        {
+            "nome": "Tr\u00eas Rios"
+        },
+        {
+            "nome": "Valen\u00e7a"
+        },
+        {
+            "nome": "Varre-Sai"
+        },
+        {
+            "nome": "Vassouras"
+        },
+        {
+            "nome": "Volta Redonda"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "nome": "Distrito Federal",
+    "sigla": "DF",
+    "cidades": [
+        {
+            "nome": "Bras\u00edlia"
+        }
+    ]
+}

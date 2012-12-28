@@ -1,0 +1,669 @@
+{
+    "nome": "Piau\u00ed",
+    "sigla": "PI",
+    "cidades": [
+        {
+            "nome": "Acau\u00e3"
+        },
+        {
+            "nome": "Agricol\u00e2ndia"
+        },
+        {
+            "nome": "\u00c1gua Branca"
+        },
+        {
+            "nome": "Alagoinha do Piau\u00ed"
+        },
+        {
+            "nome": "Alegrete do Piau\u00ed"
+        },
+        {
+            "nome": "Alto Long\u00e1"
+        },
+        {
+            "nome": "Altos"
+        },
+        {
+            "nome": "Alvorada do Gurgu\u00e9ia"
+        },
+        {
+            "nome": "Amarante"
+        },
+        {
+            "nome": "Angical do Piau\u00ed"
+        },
+        {
+            "nome": "An\u00edsio de Abreu"
+        },
+        {
+            "nome": "Ant\u00f4nio Almeida"
+        },
+        {
+            "nome": "Aroazes"
+        },
+        {
+            "nome": "Arraial"
+        },
+        {
+            "nome": "Assun\u00e7\u00e3o do Piau\u00ed"
+        },
+        {
+            "nome": "Avelino Lopes"
+        },
+        {
+            "nome": "Baixa Grande do Ribeiro"
+        },
+        {
+            "nome": "Barra d`Alc\u00e2ntara"
+        },
+        {
+            "nome": "Barras"
+        },
+        {
+            "nome": "Barreiras do Piau\u00ed"
+        },
+        {
+            "nome": "Barro Duro"
+        },
+        {
+            "nome": "Batalha"
+        },
+        {
+            "nome": "Bela Vista do Piau\u00ed"
+        },
+        {
+            "nome": "Bel\u00e9m do Piau\u00ed"
+        },
+        {
+            "nome": "Beneditinos"
+        },
+        {
+            "nome": "Bertol\u00ednia"
+        },
+        {
+            "nome": "Bet\u00e2nia do Piau\u00ed"
+        },
+        {
+            "nome": "Boa Hora"
+        },
+        {
+            "nome": "Bocaina"
+        },
+        {
+            "nome": "Bom Jesus"
+        },
+        {
+            "nome": "Bom Princ\u00edpio do Piau\u00ed"
+        },
+        {
+            "nome": "Bonfim do Piau\u00ed"
+        },
+        {
+            "nome": "Boqueir\u00e3o do Piau\u00ed"
+        },
+        {
+            "nome": "Brasileira"
+        },
+        {
+            "nome": "Brejo do Piau\u00ed"
+        },
+        {
+            "nome": "Buriti dos Lopes"
+        },
+        {
+            "nome": "Buriti dos Montes"
+        },
+        {
+            "nome": "Cabeceiras do Piau\u00ed"
+        },
+        {
+            "nome": "Cajazeiras do Piau\u00ed"
+        },
+        {
+            "nome": "Cajueiro da Praia"
+        },
+        {
+            "nome": "Caldeir\u00e3o Grande do Piau\u00ed"
+        },
+        {
+            "nome": "Campinas do Piau\u00ed"
+        },
+        {
+            "nome": "Campo Alegre do Fidalgo"
+        },
+        {
+            "nome": "Campo Grande do Piau\u00ed"
+        },
+        {
+            "nome": "Campo Largo do Piau\u00ed"
+        },
+        {
+            "nome": "Campo Maior"
+        },
+        {
+            "nome": "Canavieira"
+        },
+        {
+            "nome": "Canto do Buriti"
+        },
+        {
+            "nome": "Capit\u00e3o de Campos"
+        },
+        {
+            "nome": "Capit\u00e3o Gerv\u00e1sio Oliveira"
+        },
+        {
+            "nome": "Caracol"
+        },
+        {
+            "nome": "Cara\u00fabas do Piau\u00ed"
+        },
+        {
+            "nome": "Caridade do Piau\u00ed"
+        },
+        {
+            "nome": "Castelo do Piau\u00ed"
+        },
+        {
+            "nome": "Caxing\u00f3"
+        },
+        {
+            "nome": "Cocal"
+        },
+        {
+            "nome": "Cocal de Telha"
+        },
+        {
+            "nome": "Cocal dos Alves"
+        },
+        {
+            "nome": "Coivaras"
+        },
+        {
+            "nome": "Col\u00f4nia do Gurgu\u00e9ia"
+        },
+        {
+            "nome": "Col\u00f4nia do Piau\u00ed"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o do Canind\u00e9"
+        },
+        {
+            "nome": "Coronel Jos\u00e9 Dias"
+        },
+        {
+            "nome": "Corrente"
+        },
+        {
+            "nome": "Cristal\u00e2ndia do Piau\u00ed"
+        },
+        {
+            "nome": "Cristino Castro"
+        },
+        {
+            "nome": "Curimat\u00e1"
+        },
+        {
+            "nome": "Currais"
+        },
+        {
+            "nome": "Curral Novo do Piau\u00ed"
+        },
+        {
+            "nome": "Curralinhos"
+        },
+        {
+            "nome": "Demerval Lob\u00e3o"
+        },
+        {
+            "nome": "Dirceu Arcoverde"
+        },
+        {
+            "nome": "Dom Expedito Lopes"
+        },
+        {
+            "nome": "Dom Inoc\u00eancio"
+        },
+        {
+            "nome": "Domingos Mour\u00e3o"
+        },
+        {
+            "nome": "Elesb\u00e3o Veloso"
+        },
+        {
+            "nome": "Eliseu Martins"
+        },
+        {
+            "nome": "Esperantina"
+        },
+        {
+            "nome": "Fartura do Piau\u00ed"
+        },
+        {
+            "nome": "Flores do Piau\u00ed"
+        },
+        {
+            "nome": "Floresta do Piau\u00ed"
+        },
+        {
+            "nome": "Floriano"
+        },
+        {
+            "nome": "Francin\u00f3polis"
+        },
+        {
+            "nome": "Francisco Ayres"
+        },
+        {
+            "nome": "Francisco Macedo"
+        },
+        {
+            "nome": "Francisco Santos"
+        },
+        {
+            "nome": "Fronteiras"
+        },
+        {
+            "nome": "Geminiano"
+        },
+        {
+            "nome": "Gilbu\u00e9s"
+        },
+        {
+            "nome": "Guadalupe"
+        },
+        {
+            "nome": "Guaribas"
+        },
+        {
+            "nome": "Hugo Napole\u00e3o"
+        },
+        {
+            "nome": "Ilha Grande"
+        },
+        {
+            "nome": "Inhuma"
+        },
+        {
+            "nome": "Ipiranga do Piau\u00ed"
+        },
+        {
+            "nome": "Isa\u00edas Coelho"
+        },
+        {
+            "nome": "Itain\u00f3polis"
+        },
+        {
+            "nome": "Itaueira"
+        },
+        {
+            "nome": "Jacobina do Piau\u00ed"
+        },
+        {
+            "nome": "Jaic\u00f3s"
+        },
+        {
+            "nome": "Jardim do Mulato"
+        },
+        {
+            "nome": "Jatob\u00e1 do Piau\u00ed"
+        },
+        {
+            "nome": "Jerumenha"
+        },
+        {
+            "nome": "Jo\u00e3o Costa"
+        },
+        {
+            "nome": "Joaquim Pires"
+        },
+        {
+            "nome": "Joca Marques"
+        },
+        {
+            "nome": "Jos\u00e9 de Freitas"
+        },
+        {
+            "nome": "Juazeiro do Piau\u00ed"
+        },
+        {
+            "nome": "J\u00falio Borges"
+        },
+        {
+            "nome": "Jurema"
+        },
+        {
+            "nome": "Lagoa Alegre"
+        },
+        {
+            "nome": "Lagoa de S\u00e3o Francisco"
+        },
+        {
+            "nome": "Lagoa do Barro do Piau\u00ed"
+        },
+        {
+            "nome": "Lagoa do Piau\u00ed"
+        },
+        {
+            "nome": "Lagoa do S\u00edtio"
+        },
+        {
+            "nome": "Lagoinha do Piau\u00ed"
+        },
+        {
+            "nome": "Landri Sales"
+        },
+        {
+            "nome": "Lu\u00eds Correia"
+        },
+        {
+            "nome": "Luzil\u00e2ndia"
+        },
+        {
+            "nome": "Madeiro"
+        },
+        {
+            "nome": "Manoel Em\u00eddio"
+        },
+        {
+            "nome": "Marcol\u00e2ndia"
+        },
+        {
+            "nome": "Marcos Parente"
+        },
+        {
+            "nome": "Massap\u00ea do Piau\u00ed"
+        },
+        {
+            "nome": "Matias Ol\u00edmpio"
+        },
+        {
+            "nome": "Miguel Alves"
+        },
+        {
+            "nome": "Miguel Le\u00e3o"
+        },
+        {
+            "nome": "Milton Brand\u00e3o"
+        },
+        {
+            "nome": "Monsenhor Gil"
+        },
+        {
+            "nome": "Monsenhor Hip\u00f3lito"
+        },
+        {
+            "nome": "Monte Alegre do Piau\u00ed"
+        },
+        {
+            "nome": "Morro Cabe\u00e7a no Tempo"
+        },
+        {
+            "nome": "Morro do Chap\u00e9u do Piau\u00ed"
+        },
+        {
+            "nome": "Murici dos Portelas"
+        },
+        {
+            "nome": "Nazar\u00e9 do Piau\u00ed"
+        },
+        {
+            "nome": "Nossa Senhora de Nazar\u00e9"
+        },
+        {
+            "nome": "Nossa Senhora dos Rem\u00e9dios"
+        },
+        {
+            "nome": "Nova Santa Rita"
+        },
+        {
+            "nome": "Novo Oriente do Piau\u00ed"
+        },
+        {
+            "nome": "Novo Santo Ant\u00f4nio"
+        },
+        {
+            "nome": "Oeiras"
+        },
+        {
+            "nome": "Olho d`\u00c1gua do Piau\u00ed"
+        },
+        {
+            "nome": "Padre Marcos"
+        },
+        {
+            "nome": "Paes Landim"
+        },
+        {
+            "nome": "Paje\u00fa do Piau\u00ed"
+        },
+        {
+            "nome": "Palmeira do Piau\u00ed"
+        },
+        {
+            "nome": "Palmeirais"
+        },
+        {
+            "nome": "Paquet\u00e1"
+        },
+        {
+            "nome": "Parnagu\u00e1"
+        },
+        {
+            "nome": "Parna\u00edba"
+        },
+        {
+            "nome": "Passagem Franca do Piau\u00ed"
+        },
+        {
+            "nome": "Patos do Piau\u00ed"
+        },
+        {
+            "nome": "Paulistana"
+        },
+        {
+            "nome": "Pavussu"
+        },
+        {
+            "nome": "Pedro II"
+        },
+        {
+            "nome": "Pedro Laurentino"
+        },
+        {
+            "nome": "Picos"
+        },
+        {
+            "nome": "Pimenteiras"
+        },
+        {
+            "nome": "Pio IX"
+        },
+        {
+            "nome": "Piracuruca"
+        },
+        {
+            "nome": "Piripiri"
+        },
+        {
+            "nome": "Porto"
+        },
+        {
+            "nome": "Porto Alegre do Piau\u00ed"
+        },
+        {
+            "nome": "Prata do Piau\u00ed"
+        },
+        {
+            "nome": "Queimada Nova"
+        },
+        {
+            "nome": "Reden\u00e7\u00e3o do Gurgu\u00e9ia"
+        },
+        {
+            "nome": "Regenera\u00e7\u00e3o"
+        },
+        {
+            "nome": "Riacho Frio"
+        },
+        {
+            "nome": "Ribeira do Piau\u00ed"
+        },
+        {
+            "nome": "Ribeiro Gon\u00e7alves"
+        },
+        {
+            "nome": "Rio Grande do Piau\u00ed"
+        },
+        {
+            "nome": "Santa Cruz do Piau\u00ed"
+        },
+        {
+            "nome": "Santa Cruz dos Milagres"
+        },
+        {
+            "nome": "Santa Filomena"
+        },
+        {
+            "nome": "Santa Luz"
+        },
+        {
+            "nome": "Santa Rosa do Piau\u00ed"
+        },
+        {
+            "nome": "Santana do Piau\u00ed"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio de Lisboa"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio dos Milagres"
+        },
+        {
+            "nome": "Santo In\u00e1cio do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Braz do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o F\u00e9lix do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Francisco de Assis do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Francisco do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Gon\u00e7alo do Gurgu\u00e9ia"
+        },
+        {
+            "nome": "S\u00e3o Gon\u00e7alo do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Canabrava"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Fronteira"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Serra"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o da Varjota"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Arraial"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Divino"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Peixe"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Juli\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o Louren\u00e7o do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Luis do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Miguel da Baixa Grande"
+        },
+        {
+            "nome": "S\u00e3o Miguel do Fidalgo"
+        },
+        {
+            "nome": "S\u00e3o Miguel do Tapuio"
+        },
+        {
+            "nome": "S\u00e3o Pedro do Piau\u00ed"
+        },
+        {
+            "nome": "S\u00e3o Raimundo Nonato"
+        },
+        {
+            "nome": "Sebasti\u00e3o Barros"
+        },
+        {
+            "nome": "Sebasti\u00e3o Leal"
+        },
+        {
+            "nome": "Sigefredo Pacheco"
+        },
+        {
+            "nome": "Sim\u00f5es"
+        },
+        {
+            "nome": "Simpl\u00edcio Mendes"
+        },
+        {
+            "nome": "Socorro do Piau\u00ed"
+        },
+        {
+            "nome": "Sussuapara"
+        },
+        {
+            "nome": "Tamboril do Piau\u00ed"
+        },
+        {
+            "nome": "Tanque do Piau\u00ed"
+        },
+        {
+            "nome": "Teresina"
+        },
+        {
+            "nome": "Uni\u00e3o"
+        },
+        {
+            "nome": "Uru\u00e7u\u00ed"
+        },
+        {
+            "nome": "Valen\u00e7a do Piau\u00ed"
+        },
+        {
+            "nome": "V\u00e1rzea Branca"
+        },
+        {
+            "nome": "V\u00e1rzea Grande"
+        },
+        {
+            "nome": "Vera Mendes"
+        },
+        {
+            "nome": "Vila Nova do Piau\u00ed"
+        },
+        {
+            "nome": "Wall Ferraz"
+        }
+    ]
+}

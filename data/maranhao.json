@@ -1,0 +1,657 @@
+{
+    "nome": "Maranh\u00e3o",
+    "sigla": "MA",
+    "cidades": [
+        {
+            "nome": "A\u00e7ail\u00e2ndia"
+        },
+        {
+            "nome": "Afonso Cunha"
+        },
+        {
+            "nome": "\u00c1gua Doce do Maranh\u00e3o"
+        },
+        {
+            "nome": "Alc\u00e2ntara"
+        },
+        {
+            "nome": "Aldeias Altas"
+        },
+        {
+            "nome": "Altamira do Maranh\u00e3o"
+        },
+        {
+            "nome": "Alto Alegre do Maranh\u00e3o"
+        },
+        {
+            "nome": "Alto Alegre do Pindar\u00e9"
+        },
+        {
+            "nome": "Alto Parna\u00edba"
+        },
+        {
+            "nome": "Amap\u00e1 do Maranh\u00e3o"
+        },
+        {
+            "nome": "Amarante do Maranh\u00e3o"
+        },
+        {
+            "nome": "Anajatuba"
+        },
+        {
+            "nome": "Anapurus"
+        },
+        {
+            "nome": "Apicum-A\u00e7u"
+        },
+        {
+            "nome": "Araguan\u00e3"
+        },
+        {
+            "nome": "Araioses"
+        },
+        {
+            "nome": "Arame"
+        },
+        {
+            "nome": "Arari"
+        },
+        {
+            "nome": "Axix\u00e1"
+        },
+        {
+            "nome": "Bacabal"
+        },
+        {
+            "nome": "Bacabeira"
+        },
+        {
+            "nome": "Bacuri"
+        },
+        {
+            "nome": "Bacurituba"
+        },
+        {
+            "nome": "Balsas"
+        },
+        {
+            "nome": "Bar\u00e3o de Graja\u00fa"
+        },
+        {
+            "nome": "Barra do Corda"
+        },
+        {
+            "nome": "Barreirinhas"
+        },
+        {
+            "nome": "Bela Vista do Maranh\u00e3o"
+        },
+        {
+            "nome": "Bel\u00e1gua"
+        },
+        {
+            "nome": "Benedito Leite"
+        },
+        {
+            "nome": "Bequim\u00e3o"
+        },
+        {
+            "nome": "Bernardo do Mearim"
+        },
+        {
+            "nome": "Boa Vista do Gurupi"
+        },
+        {
+            "nome": "Bom Jardim"
+        },
+        {
+            "nome": "Bom Jesus das Selvas"
+        },
+        {
+            "nome": "Bom Lugar"
+        },
+        {
+            "nome": "Brejo"
+        },
+        {
+            "nome": "Brejo de Areia"
+        },
+        {
+            "nome": "Buriti"
+        },
+        {
+            "nome": "Buriti Bravo"
+        },
+        {
+            "nome": "Buriticupu"
+        },
+        {
+            "nome": "Buritirana"
+        },
+        {
+            "nome": "Cachoeira Grande"
+        },
+        {
+            "nome": "Cajapi\u00f3"
+        },
+        {
+            "nome": "Cajari"
+        },
+        {
+            "nome": "Campestre do Maranh\u00e3o"
+        },
+        {
+            "nome": "C\u00e2ndido Mendes"
+        },
+        {
+            "nome": "Cantanhede"
+        },
+        {
+            "nome": "Capinzal do Norte"
+        },
+        {
+            "nome": "Carolina"
+        },
+        {
+            "nome": "Carutapera"
+        },
+        {
+            "nome": "Caxias"
+        },
+        {
+            "nome": "Cedral"
+        },
+        {
+            "nome": "Central do Maranh\u00e3o"
+        },
+        {
+            "nome": "Centro do Guilherme"
+        },
+        {
+            "nome": "Centro Novo do Maranh\u00e3o"
+        },
+        {
+            "nome": "Chapadinha"
+        },
+        {
+            "nome": "Cidel\u00e2ndia"
+        },
+        {
+            "nome": "Cod\u00f3"
+        },
+        {
+            "nome": "Coelho Neto"
+        },
+        {
+            "nome": "Colinas"
+        },
+        {
+            "nome": "Concei\u00e7\u00e3o do Lago-A\u00e7u"
+        },
+        {
+            "nome": "Coroat\u00e1"
+        },
+        {
+            "nome": "Cururupu"
+        },
+        {
+            "nome": "Davin\u00f3polis"
+        },
+        {
+            "nome": "Dom Pedro"
+        },
+        {
+            "nome": "Duque Bacelar"
+        },
+        {
+            "nome": "Esperantin\u00f3polis"
+        },
+        {
+            "nome": "Estreito"
+        },
+        {
+            "nome": "Feira Nova do Maranh\u00e3o"
+        },
+        {
+            "nome": "Fernando Falc\u00e3o"
+        },
+        {
+            "nome": "Formosa da Serra Negra"
+        },
+        {
+            "nome": "Fortaleza dos Nogueiras"
+        },
+        {
+            "nome": "Fortuna"
+        },
+        {
+            "nome": "Godofredo Viana"
+        },
+        {
+            "nome": "Gon\u00e7alves Dias"
+        },
+        {
+            "nome": "Governador Archer"
+        },
+        {
+            "nome": "Governador Edison Lob\u00e3o"
+        },
+        {
+            "nome": "Governador Eug\u00eanio Barros"
+        },
+        {
+            "nome": "Governador Luiz Rocha"
+        },
+        {
+            "nome": "Governador Newton Bello"
+        },
+        {
+            "nome": "Governador Nunes Freire"
+        },
+        {
+            "nome": "Gra\u00e7a Aranha"
+        },
+        {
+            "nome": "Graja\u00fa"
+        },
+        {
+            "nome": "Guimar\u00e3es"
+        },
+        {
+            "nome": "Humberto de Campos"
+        },
+        {
+            "nome": "Icatu"
+        },
+        {
+            "nome": "Igarap\u00e9 do Meio"
+        },
+        {
+            "nome": "Igarap\u00e9 Grande"
+        },
+        {
+            "nome": "Imperatriz"
+        },
+        {
+            "nome": "Itaipava do Graja\u00fa"
+        },
+        {
+            "nome": "Itapecuru Mirim"
+        },
+        {
+            "nome": "Itinga do Maranh\u00e3o"
+        },
+        {
+            "nome": "Jatob\u00e1"
+        },
+        {
+            "nome": "Jenipapo dos Vieiras"
+        },
+        {
+            "nome": "Jo\u00e3o Lisboa"
+        },
+        {
+            "nome": "Josel\u00e2ndia"
+        },
+        {
+            "nome": "Junco do Maranh\u00e3o"
+        },
+        {
+            "nome": "Lago da Pedra"
+        },
+        {
+            "nome": "Lago do Junco"
+        },
+        {
+            "nome": "Lago dos Rodrigues"
+        },
+        {
+            "nome": "Lago Verde"
+        },
+        {
+            "nome": "Lagoa do Mato"
+        },
+        {
+            "nome": "Lagoa Grande do Maranh\u00e3o"
+        },
+        {
+            "nome": "Lajeado Novo"
+        },
+        {
+            "nome": "Lima Campos"
+        },
+        {
+            "nome": "Loreto"
+        },
+        {
+            "nome": "Lu\u00eds Domingues"
+        },
+        {
+            "nome": "Magalh\u00e3es de Almeida"
+        },
+        {
+            "nome": "Maraca\u00e7um\u00e9"
+        },
+        {
+            "nome": "Maraj\u00e1 do Sena"
+        },
+        {
+            "nome": "Maranh\u00e3ozinho"
+        },
+        {
+            "nome": "Mata Roma"
+        },
+        {
+            "nome": "Matinha"
+        },
+        {
+            "nome": "Mat\u00f5es"
+        },
+        {
+            "nome": "Mat\u00f5es do Norte"
+        },
+        {
+            "nome": "Milagres do Maranh\u00e3o"
+        },
+        {
+            "nome": "Mirador"
+        },
+        {
+            "nome": "Miranda do Norte"
+        },
+        {
+            "nome": "Mirinzal"
+        },
+        {
+            "nome": "Mon\u00e7\u00e3o"
+        },
+        {
+            "nome": "Montes Altos"
+        },
+        {
+            "nome": "Morros"
+        },
+        {
+            "nome": "Nina Rodrigues"
+        },
+        {
+            "nome": "Nova Colinas"
+        },
+        {
+            "nome": "Nova Iorque"
+        },
+        {
+            "nome": "Nova Olinda do Maranh\u00e3o"
+        },
+        {
+            "nome": "Olho d`\u00c1gua das Cunh\u00e3s"
+        },
+        {
+            "nome": "Olinda Nova do Maranh\u00e3o"
+        },
+        {
+            "nome": "Pa\u00e7o do Lumiar"
+        },
+        {
+            "nome": "Palmeir\u00e2ndia"
+        },
+        {
+            "nome": "Paraibano"
+        },
+        {
+            "nome": "Parnarama"
+        },
+        {
+            "nome": "Passagem Franca"
+        },
+        {
+            "nome": "Pastos Bons"
+        },
+        {
+            "nome": "Paulino Neves"
+        },
+        {
+            "nome": "Paulo Ramos"
+        },
+        {
+            "nome": "Pedreiras"
+        },
+        {
+            "nome": "Pedro do Ros\u00e1rio"
+        },
+        {
+            "nome": "Penalva"
+        },
+        {
+            "nome": "Peri Mirim"
+        },
+        {
+            "nome": "Peritor\u00f3"
+        },
+        {
+            "nome": "Pindar\u00e9-Mirim"
+        },
+        {
+            "nome": "Pinheiro"
+        },
+        {
+            "nome": "Pio XII"
+        },
+        {
+            "nome": "Pirapemas"
+        },
+        {
+            "nome": "Po\u00e7\u00e3o de Pedras"
+        },
+        {
+            "nome": "Porto Franco"
+        },
+        {
+            "nome": "Porto Rico do Maranh\u00e3o"
+        },
+        {
+            "nome": "Presidente Dutra"
+        },
+        {
+            "nome": "Presidente Juscelino"
+        },
+        {
+            "nome": "Presidente M\u00e9dici"
+        },
+        {
+            "nome": "Presidente Sarney"
+        },
+        {
+            "nome": "Presidente Vargas"
+        },
+        {
+            "nome": "Primeira Cruz"
+        },
+        {
+            "nome": "Raposa"
+        },
+        {
+            "nome": "Riach\u00e3o"
+        },
+        {
+            "nome": "Ribamar Fiquene"
+        },
+        {
+            "nome": "Ros\u00e1rio"
+        },
+        {
+            "nome": "Samba\u00edba"
+        },
+        {
+            "nome": "Santa Filomena do Maranh\u00e3o"
+        },
+        {
+            "nome": "Santa Helena"
+        },
+        {
+            "nome": "Santa In\u00eas"
+        },
+        {
+            "nome": "Santa Luzia"
+        },
+        {
+            "nome": "Santa Luzia do Paru\u00e1"
+        },
+        {
+            "nome": "Santa Quit\u00e9ria do Maranh\u00e3o"
+        },
+        {
+            "nome": "Santa Rita"
+        },
+        {
+            "nome": "Santana do Maranh\u00e3o"
+        },
+        {
+            "nome": "Santo Amaro do Maranh\u00e3o"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio dos Lopes"
+        },
+        {
+            "nome": "S\u00e3o Benedito do Rio Preto"
+        },
+        {
+            "nome": "S\u00e3o Bento"
+        },
+        {
+            "nome": "S\u00e3o Bernardo"
+        },
+        {
+            "nome": "S\u00e3o Domingos do Azeit\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o Domingos do Maranh\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o F\u00e9lix de Balsas"
+        },
+        {
+            "nome": "S\u00e3o Francisco do Brej\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o Francisco do Maranh\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o Batista"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Car\u00fa"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Para\u00edso"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o do Soter"
+        },
+        {
+            "nome": "S\u00e3o Jo\u00e3o dos Patos"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 de Ribamar"
+        },
+        {
+            "nome": "S\u00e3o Jos\u00e9 dos Bas\u00edlios"
+        },
+        {
+            "nome": "S\u00e3o Lu\u00eds"
+        },
+        {
+            "nome": "S\u00e3o Lu\u00eds Gonzaga do Maranh\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o Mateus do Maranh\u00e3o"
+        },
+        {
+            "nome": "S\u00e3o Pedro da \u00c1gua Branca"
+        },
+        {
+            "nome": "S\u00e3o Pedro dos Crentes"
+        },
+        {
+            "nome": "S\u00e3o Raimundo das Mangabeiras"
+        },
+        {
+            "nome": "S\u00e3o Raimundo do Doca Bezerra"
+        },
+        {
+            "nome": "S\u00e3o Roberto"
+        },
+        {
+            "nome": "S\u00e3o Vicente Ferrer"
+        },
+        {
+            "nome": "Satubinha"
+        },
+        {
+            "nome": "Senador Alexandre Costa"
+        },
+        {
+            "nome": "Senador La Rocque"
+        },
+        {
+            "nome": "Serrano do Maranh\u00e3o"
+        },
+        {
+            "nome": "S\u00edtio Novo"
+        },
+        {
+            "nome": "Sucupira do Norte"
+        },
+        {
+            "nome": "Sucupira do Riach\u00e3o"
+        },
+        {
+            "nome": "Tasso Fragoso"
+        },
+        {
+            "nome": "Timbiras"
+        },
+        {
+            "nome": "Timon"
+        },
+        {
+            "nome": "Trizidela do Vale"
+        },
+        {
+            "nome": "Tufil\u00e2ndia"
+        },
+        {
+            "nome": "Tuntum"
+        },
+        {
+            "nome": "Turia\u00e7u"
+        },
+        {
+            "nome": "Turil\u00e2ndia"
+        },
+        {
+            "nome": "Tut\u00f3ia"
+        },
+        {
+            "nome": "Urbano Santos"
+        },
+        {
+            "nome": "Vargem Grande"
+        },
+        {
+            "nome": "Viana"
+        },
+        {
+            "nome": "Vila Nova dos Mart\u00edrios"
+        },
+        {
+            "nome": "Vit\u00f3ria do Mearim"
+        },
+        {
+            "nome": "Vitorino Freire"
+        },
+        {
+            "nome": "Z\u00e9 Doca"
+        }
+    ]
+}

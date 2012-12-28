@@ -1,0 +1,192 @@
+{
+    "nome": "Amazonas",
+    "sigla": "AM",
+    "cidades": [
+        {
+            "nome": "Alvar\u00e3es"
+        },
+        {
+            "nome": "Amatur\u00e1"
+        },
+        {
+            "nome": "nam\u00e3"
+        },
+        {
+            "nome": "Anori"
+        },
+        {
+            "nome": "Apu\u00ed"
+        },
+        {
+            "nome": "Atalaia do Norte"
+        },
+        {
+            "nome": "Autazes"
+        },
+        {
+            "nome": "Barcelos"
+        },
+        {
+            "nome": "Barreirinha"
+        },
+        {
+            "nome": "Benjamin Constant"
+        },
+        {
+            "nome": "Beruri"
+        },
+        {
+            "nome": "Boa Vista do Ramos"
+        },
+        {
+            "nome": "Boca do Acre"
+        },
+        {
+            "nome": "Borba"
+        },
+        {
+            "nome": "Caapiranga"
+        },
+        {
+            "nome": "Canutama"
+        },
+        {
+            "nome": "Carauari"
+        },
+        {
+            "nome": "Careiro"
+        },
+        {
+            "nome": "Careiro da V\u00e1rzea"
+        },
+        {
+            "nome": "Coari"
+        },
+        {
+            "nome": "Codaj\u00e1s"
+        },
+        {
+            "nome": "Eirunep\u00e9"
+        },
+        {
+            "nome": "Envira"
+        },
+        {
+            "nome": "Fonte Boa"
+        },
+        {
+            "nome": "Guajar\u00e1"
+        },
+        {
+            "nome": "Humait\u00e1"
+        },
+        {
+            "nome": "Ipixuna"
+        },
+        {
+            "nome": "Iranduba"
+        },
+        {
+            "nome": "Itacoatiara"
+        },
+        {
+            "nome": "Itamarati"
+        },
+        {
+            "nome": "Itapiranga"
+        },
+        {
+            "nome": "Japur\u00e1"
+        },
+        {
+            "nome": "Juru\u00e1"
+        },
+        {
+            "nome": "Juta\u00ed"
+        },
+        {
+            "nome": "L\u00e1brea"
+        },
+        {
+            "nome": "Manacapuru"
+        },
+        {
+            "nome": "Manaquiri"
+        },
+        {
+            "nome": "Manaus"
+        },
+        {
+            "nome": "Manicor\u00e9"
+        },
+        {
+            "nome": "Mara\u00e3"
+        },
+        {
+            "nome": "Mau\u00e9s"
+        },
+        {
+            "nome": "Nhamund\u00e1"
+        },
+        {
+            "nome": "Nova Olinda do Norte"
+        },
+        {
+            "nome": "Novo Air\u00e3o"
+        },
+        {
+            "nome": "Novo Aripuan\u00e3"
+        },
+        {
+            "nome": "Parintins"
+        },
+        {
+            "nome": "Pauini"
+        },
+        {
+            "nome": "Presidente Figueiredo"
+        },
+        {
+            "nome": "Rio Preto da Eva"
+        },
+        {
+            "nome": "Santa Isabel do Rio Negro"
+        },
+        {
+            "nome": "Santo Ant\u00f4nio do I\u00e7\u00e1"
+        },
+        {
+            "nome": "S\u00e3o Gabriel da Cachoeira"
+        },
+        {
+            "nome": "S\u00e3o Paulo de Oliven\u00e7a"
+        },
+        {
+            "nome": "S\u00e3o Sebasti\u00e3o do Uatum\u00e3"
+        },
+        {
+            "nome": "Silves"
+        },
+        {
+            "nome": "Tabatinga"
+        },
+        {
+            "nome": "Tapau\u00e1"
+        },
+        {
+            "nome": "Tef\u00e9"
+        },
+        {
+            "nome": "Tonantins"
+        },
+        {
+            "nome": "Uarini"
+        },
+        {
+            "nome": "Urucar\u00e1"
+        },
+        {
+            "nome": "Urucurituba"
+        }
+    ]
+}
