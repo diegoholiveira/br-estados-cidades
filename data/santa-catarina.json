@@ -1,6 +1,8 @@
 {
     "nome": "Santa Catarina",
     "sigla": "SC",
+    "capital": "Florian\u00F3polis",
+    "regiao": "Sul",
     "cidades": [
         {
             "nome": "Abdon Batista"
@@ -315,7 +317,7 @@
             "nome": "Guatamb\u00fa"
         },
         {
-            "nome": "Herval d`Oeste"
+            "nome": "Herval d\u0027Oeste"
         },
         {
             "nome": "Ibiam"

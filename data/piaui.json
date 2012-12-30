@@ -1,6 +1,8 @@
 {
     "nome": "Piau\u00ed",
     "sigla": "PI",
+    "capital": "Terezina",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Acau\u00e3"
@@ -54,7 +56,7 @@
             "nome": "Baixa Grande do Ribeiro"
         },
         {
-            "nome": "Barra d`Alc\u00e2ntara"
+            "nome": "Barra d\u0027Alc\u00e2ntara"
         },
         {
             "nome": "Barras"
@@ -426,7 +428,7 @@
             "nome": "Oeiras"
         },
         {
-            "nome": "Olho d`\u00c1gua do Piau\u00ed"
+            "nome": "Olho d\u0027\u00c1gua do Piau\u00ed"
         },
         {
             "nome": "Padre Marcos"

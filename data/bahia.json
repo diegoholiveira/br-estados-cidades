@@ -1,6 +1,8 @@
 {
     "nome": "Bahia",
     "sigla": "BA",
+    "capital": "Salvador",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Aba\u00edra"
@@ -351,7 +353,7 @@
             "nome": "D\u00e1rio Meira"
         },
         {
-            "nome": "Dias d`\u00c1vila"
+            "nome": "Dias d\u0027\u00c1vila"
         },
         {
             "nome": "Dom Bas\u00edlio"

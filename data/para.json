@@ -1,6 +1,8 @@
 {
     "nome": "Par\u00e1",
     "sigla": "PA",
+    "capital": "Bel\u00E9m",
+    "regiao": "Norte",
     "cidades": [
         {
             "nome": "Abaetetuba"
@@ -270,7 +272,7 @@
             "nome": "Parauapebas"
         },
         {
-            "nome": "Pau d`Arco"
+            "nome": "Pau d\u0027Arco"
         },
         {
             "nome": "Peixe-Boi"

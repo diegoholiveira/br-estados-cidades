@@ -1,6 +1,8 @@
 {
     "nome": "Distrito Federal",
     "sigla": "DF",
+    "capital": "Bras\u00edlia",
+    "regiao": "Centro-Oeste",
     "cidades": [
         {
             "nome": "Bras\u00edlia"

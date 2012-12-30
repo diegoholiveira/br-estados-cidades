@@ -1,6 +1,8 @@
 {
     "nome": "Mato Grosso",
     "sigla": "MT",
+    "capital": "Cuiab\u00E1",
+    "regiao": "Centro-Oeste",
     "cidades": [
         {
             "nome": "Acorizal"
@@ -120,7 +122,7 @@
             "nome": "Feliz Natal"
         },
         {
-            "nome": "Figueir\u00f3polis d`Oeste"
+            "nome": "Figueir\u00f3polis d\u0027Oeste"
         },
         {
             "nome": "Ga\u00facha do Norte"
@@ -129,7 +131,7 @@
             "nome": "General Carneiro"
         },
         {
-            "nome": "Gl\u00f3ria d`Oeste"
+            "nome": "Gl\u00f3ria d\u0027Oeste"
         },
         {
             "nome": "Guarant\u00e3 do Norte"
@@ -168,7 +170,7 @@
             "nome": "Juscimeira"
         },
         {
-            "nome": "Lambari d`Oeste"
+            "nome": "Lambari d\u0027Oeste"
         },
         {
             "nome": "Lucas do Rio Verde"
@@ -183,7 +185,7 @@
             "nome": "Matup\u00e1"
         },
         {
-            "nome": "Mirassol d`Oeste"
+            "nome": "Mirassol d\u0027Oeste"
         },
         {
             "nome": "Nobres"

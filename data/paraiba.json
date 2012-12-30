@@ -1,6 +1,8 @@
 {
     "nome": "Para\u00edba",
     "sigla": "PB",
+    "capital": "Jo\u00E3o Pessoa",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "\u00c1gua Branca"
@@ -324,7 +326,7 @@
             "nome": "Lucena"
         },
         {
-            "nome": "M\u00e3e d`\u00c1gua"
+            "nome": "M\u00e3e d\u0027\u00c1gua"
         },
         {
             "nome": "Malta"
@@ -390,7 +392,7 @@
             "nome": "Nova Palmeira"
         },
         {
-            "nome": "Olho d`\u00c1gua"
+            "nome": "Olho d\u0027\u00c1gua"
         },
         {
             "nome": "Olivedos"

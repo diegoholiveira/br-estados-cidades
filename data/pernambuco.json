@@ -1,6 +1,8 @@
 {
     "nome": "Pernambuco",
     "sigla": "PE",
+    "capital": "Recife",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Abreu e Lima"

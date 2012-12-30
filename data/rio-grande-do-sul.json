@@ -1,6 +1,8 @@
 {
     "nome": "Rio Grande do Sul",
     "sigla": "RS",
+    "capital": "Porto Alegre",
+    "regiao": "Sul",
     "cidades": [
         {
             "nome": "\u00c1gua Santa"

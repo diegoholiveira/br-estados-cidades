@@ -1,6 +1,8 @@
 {
     "nome": "Roraima",
     "sigla": "RR",
+    "capital": "Boa Vista",
+    "regiao": "Norte",
     "cidades": [
         {
             "nome": "Alto Alegre"
