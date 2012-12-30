@@ -3,7 +3,7 @@
     "sigla": "RO",
     "cidades": [
         {
-            "nome": "Alta Floresta d`Oeste"
+            "nome": "Alta Floresta d\u0027Oeste"
         },
         {
             "nome": "Alto Alegre dos Parecis"
@@ -12,7 +12,7 @@
             "nome": "Alto Para\u00edso"
         },
         {
-            "nome": "Alvorada d`Oeste"
+            "nome": "Alvorada d\u0027Oeste"
         },
         {
             "nome": "Ariquemes"
@@ -57,7 +57,7 @@
             "nome": "Cujubim"
         },
         {
-            "nome": "Espig\u00e3o d`Oeste"
+            "nome": "Espig\u00e3o d\u0027Oeste"
         },
         {
             "nome": "Governador Jorge Teixeira"
@@ -75,7 +75,7 @@
             "nome": "Ji-Paran\u00e1"
         },
         {
-            "nome": "Machadinho d`Oeste"
+            "nome": "Machadinho d\u0027Oeste"
         },
         {
             "nome": "Ministro Andreazza"
@@ -87,7 +87,7 @@
             "nome": "Monte Negro"
         },
         {
-            "nome": "Nova Brasil\u00e2ndia d`Oeste"
+            "nome": "Nova Brasil\u00e2ndia d\u0027Oeste"
         },
         {
             "nome": "Nova Mamor\u00e9"
@@ -126,10 +126,10 @@
             "nome": "Rolim de Moura"
         },
         {
-            "nome": "Santa Luzia d`Oeste"
+            "nome": "Santa Luzia d\u0027Oeste"
         },
         {
-            "nome": "S\u00e3o Felipe d`Oeste"
+            "nome": "S\u00e3o Felipe d\u0027Oeste"
         },
         {
             "nome": "S\u00e3o Francisco do Guapor\u00e9"
