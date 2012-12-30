@@ -1,6 +1,8 @@
 {
     "nome": "Sergipe",
     "sigla": "SE",
+    "capital": "Aracaj\u00FA",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Amparo de S\u00e3o Francisco"

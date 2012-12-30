@@ -1,6 +1,8 @@
 {
     "nome": "S\u00e3o Paulo",
     "sigla": "SP",
+    "capital": "S\u00e3o Paulo",
+    "regiao": "Sudeste",
     "cidades": [
         {
             "nome": "Adamantina"

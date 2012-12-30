@@ -1,6 +1,8 @@
 {
     "nome": "Mato Grosso",
     "sigla": "MT",
+    "capital": "Cuiab\u00E1",
+    "regiao": "Centro-Oeste",
     "cidades": [
         {
             "nome": "Acorizal"

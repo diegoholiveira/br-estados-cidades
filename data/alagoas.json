@@ -1,6 +1,8 @@
 {
     "nome": "Alagoas",
     "sigla": "AL",
+    "capital": "Macei\u00f3",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "\u00c1gua Branca"

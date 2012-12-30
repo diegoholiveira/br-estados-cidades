@@ -1,6 +1,8 @@
 {
     "nome": "Rond\u00f4nia",
     "sigla": "RO",
+    "capital": "Porto Velho",
+    "regiao": "Norte",
     "cidades": [
         {
             "nome": "Alta Floresta d\u0027Oeste"

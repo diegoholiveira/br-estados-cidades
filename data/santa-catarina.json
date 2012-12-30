@@ -1,6 +1,8 @@
 {
     "nome": "Santa Catarina",
     "sigla": "SC",
+    "capital": "Florian\u00F3polis",
+    "regiao": "Sul",
     "cidades": [
         {
             "nome": "Abdon Batista"

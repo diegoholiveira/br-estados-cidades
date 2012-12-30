@@ -1,6 +1,8 @@
 {
     "nome": "Piau\u00ed",
     "sigla": "PI",
+    "capital": "Terezina",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Acau\u00e3"

@@ -1,6 +1,8 @@
 {
     "nome": "Goi\u00e1s",
     "sigla": "GO",
+    "capital": "Goi\u00E2nia",
+    "regiao": "Centro-Oeste",
     "cidades": [
         {
             "nome": "Abadia de Goi\u00e1s"

@@ -1,6 +1,8 @@
 {
     "nome": "Bahia",
     "sigla": "BA",
+    "capital": "Salvador",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Aba\u00edra"

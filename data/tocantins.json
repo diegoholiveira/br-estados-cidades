@@ -1,6 +1,8 @@
 {
     "nome": "Tocantins",
     "sigla": "TO",
+    "capital": "Palmas",
+    "regiao": "Norte",
     "cidades": [
         {
             "nome": "Abreul\u00e2ndia"

@@ -1,6 +1,8 @@
 {
     "nome": "Maranh\u00e3o",
     "sigla": "MA",
+    "capital": "S\u00E3o Luiz",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "A\u00e7ail\u00e2ndia"

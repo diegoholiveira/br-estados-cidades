@@ -1,6 +1,8 @@
 {
     "nome": "Minas Gerais",
     "sigla": "MG",
+    "capital": "Belo Horizonte",
+    "regiao": "Sudeste",
     "cidades": [
         {
             "nome": "Abadia dos Dourados"

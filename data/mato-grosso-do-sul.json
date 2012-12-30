@@ -1,6 +1,8 @@
 {
     "nome": "Mato Grosso do Sul",
     "sigla": "MS",
+    "capital": "Campo Grande",
+    "regiao": "Centro-Oeste",
     "cidades": [
         {
             "nome": "\u00c1gua Clara"

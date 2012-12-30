@@ -1,6 +1,8 @@
 {
     "nome": "Rio Grande do Norte",
     "sigla": "RN",
+    "capital": "Natal",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Acari"

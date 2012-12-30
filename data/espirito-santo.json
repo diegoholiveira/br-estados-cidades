@@ -1,6 +1,8 @@
 {
     "nome": "Esp\u00edrito Santo",
     "sigla": "ES",
+    "capital": "Vit\u00F3ria",
+    "regiao": "Sudeste",
     "cidades": [
         {
             "nome": "Afonso Cl\u00e1udio"
