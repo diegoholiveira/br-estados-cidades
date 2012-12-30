@@ -1,6 +1,8 @@
 {
     "nome": "Cear\u00e1",
     "sigla": "CE",
+    "capital": "Fortaleza",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Abaiara"

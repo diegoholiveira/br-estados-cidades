@@ -1,6 +1,8 @@
 {
     "nome": "Paran\u00e1",
     "sigla": "PR",
+    "capital": "Curitiba",
+    "regiao": "Sul",
     "cidades": [
         {
             "nome": "Abati\u00e1"
@@ -288,7 +290,7 @@
             "nome": "Curi\u00fava"
         },
         {
-            "nome": "Diamante d`Oeste"
+            "nome": "Diamante d\u0027Oeste"
         },
         {
             "nome": "Diamante do Norte"
@@ -480,7 +482,7 @@
             "nome": "Itamb\u00e9"
         },
         {
-            "nome": "Itapejara d`Oeste"
+            "nome": "Itapejara d\u0027Oeste"
         },
         {
             "nome": "Itaperu\u00e7u"
@@ -792,7 +794,7 @@
             "nome": "P\u00e9rola"
         },
         {
-            "nome": "P\u00e9rola d`Oeste"
+            "nome": "P\u00e9rola d\u0027Oeste"
         },
         {
             "nome": "Pi\u00ean"
@@ -894,7 +896,7 @@
             "nome": "Rancho Alegre"
         },
         {
-            "nome": "Rancho Alegre d`Oeste"
+            "nome": "Rancho Alegre d\u0027Oeste"
         },
         {
             "nome": "Realeza"
@@ -1038,7 +1040,7 @@
             "nome": "S\u00e3o Jo\u00e3o do Triunfo"
         },
         {
-            "nome": "S\u00e3o Jorge d`Oeste"
+            "nome": "S\u00e3o Jorge d\u0027Oeste"
         },
         {
             "nome": "S\u00e3o Jorge do Iva\u00ed"

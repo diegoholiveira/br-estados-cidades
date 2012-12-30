@@ -1,6 +1,8 @@
 {
     "nome": "Amazonas",
     "sigla": "AM",
+    "capital": "Manaus",
+    "regiao": "Norte",
     "cidades": [
         {
             "nome": "Alvar\u00e3es"

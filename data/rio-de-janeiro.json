@@ -1,6 +1,8 @@
 {
     "nome": "Rio de Janeiro",
     "sigla": "RJ",
+    "capital": "Rio de Janeiro",
+    "regiao": "Sudeste",
     "cidades": [
         {
             "nome": "Angra dos Reis"

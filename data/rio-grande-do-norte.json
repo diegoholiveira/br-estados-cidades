@@ -1,6 +1,8 @@
 {
     "nome": "Rio Grande do Norte",
     "sigla": "RN",
+    "capital": "Natal",
+    "regiao": "Nordeste",
     "cidades": [
         {
             "nome": "Acari"
@@ -201,7 +203,7 @@
             "nome": "Jucurutu"
         },
         {
-            "nome": "Lagoa d`Anta"
+            "nome": "Lagoa d\u0027Anta"
         },
         {
             "nome": "Lagoa de Pedras"
@@ -270,7 +272,7 @@
             "nome": "Nova Cruz"
         },
         {
-            "nome": "Olho-d`\u00c1gua do Borges"
+            "nome": "Olho-d\u0027\u00c1gua do Borges"
         },
         {
             "nome": "Ouro Branco"

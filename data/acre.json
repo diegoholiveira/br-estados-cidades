@@ -1,6 +1,8 @@
 {
     "nome": "Acre",
     "sigla": "AC",
+    "capital": "Rio Branco",
+    "regiao": "Norte",
     "cidades": [
         {
             "nome": "Acrel\u00e2ndia"
